@@ -1,0 +1,1001 @@
+venta_id,fecha_venta,monto_venta,producto_id,producto_nombre,region,usuario_id,fecha_registro,retention_rate,cohort,transaccion_id,volumen_transaccion,estado_transaccion,valor_promedio
+1,10/4/2021,1302.42,1,Dark Chocolate Tart,Thailand,1,2/5/2020,19.9,Q1 2020,1,659,Completado,375.71
+2,3/15/2021,8605.8,2,Cheese Stuffed Jalapenos,Guam,2,12/11/2021,15.59,Q1 2020,2,487,Cancelado,457.14
+3,6/28/2021,4938.72,3,Garam Masala Spice Blend,Tunisia,3,2/26/2020,58.51,Q1 2020,3,496,Completado,351.16
+4,4/14/2021,7500.95,4,Golf Putting Green,Greece,4,9/6/2021,43.02,Q2 2020,4,200,Pendiente,323.86
+5,6/10/2021,7123.65,5,Safety Goggles,China,5,7/27/2020,89.7,Q3 2020,5,54,Completado,69.43
+6,1/2/2021,3977.97,6,Almond Milk Yogurt,Vietnam,6,8/28/2020,82.51,Q3 2020,6,904,Cancelado,183.79
+7,7/31/2021,7325.65,7,Chili Lime Corn Chips,New Zealand,7,12/12/2021,80.8,Q3 2020,7,880,Pendiente,337.95
+8,8/31/2021,4416.95,8,Portable Solar Charger,Czech Republic,8,10/16/2020,31.36,Q1 2020,8,740,Cancelado,370.44
+9,9/11/2021,3700.2,9,Water-Resistant Bluetooth Speaker,Kazakhstan,9,9/27/2021,34.56,Q3 2020,9,808,Pendiente,409.42
+10,6/18/2021,939.97,10,Garden Tool Set,Russia,10,11/12/2020,54.21,Q3 2020,10,867,Completado,333.92
+11,9/4/2021,3890.13,11,Garden Tool Set with Carrying Bag,Portugal,11,4/17/2020,3.59,Q1 2020,11,31,Cancelado,13.62
+12,8/11/2021,1927.33,12,Portable Refrigerator Freezer,Iran,12,5/11/2020,27.38,Q3 2020,12,710,Pendiente,391.55
+13,6/25/2021,2597.41,13,Organic Almond Flour,Dominica,13,2/15/2021,38.32,Q3 2020,13,946,Pendiente,307.77
+14,10/21/2021,3956.39,14,Garlic and Herb Cream Cheese,Czech Republic,14,10/2/2020,22.4,Q1 2020,14,758,Pendiente,319.45
+15,11/18/2021,7389.53,15,Maple Glazed Carrots,Palestinian Territory,15,2/16/2020,58.03,Q3 2020,15,910,Cancelado,47.57
+16,8/21/2021,2603.45,16,Gluten-Free Bread,Peru,16,5/6/2020,65.12,Q1 2020,16,988,Completado,58.09
+17,5/25/2021,6425.42,17,Cocktail Shaker Set,Philippines,17,2/2/2020,64.46,Q2 2020,17,497,Cancelado,422.04
+18,5/15/2021,594.02,18,Rustic Italian Bread,Brazil,18,5/15/2020,47.68,Q1 2020,18,175,Pendiente,345.63
+19,2/17/2021,4235.14,19,Eco-Friendly Yoga Blocks,Ukraine,19,5/17/2021,19.34,Q3 2020,19,235,Completado,132.66
+20,11/18/2021,8114.05,20,Organic Baby Spinach,Canada,20,12/13/2020,39.77,Q1 2020,20,926,Pendiente,464.53
+21,9/17/2021,7775.75,21,Digital Kitchen Timer,China,21,1/29/2021,14.59,Q1 2020,21,462,Pendiente,144.69
+22,12/20/2021,3186.07,22,Paprika,Malaysia,22,2/17/2020,40.28,Q2 2020,22,713,Completado,245.44
+23,10/13/2021,3615.85,23,Car Sunshade,Philippines,23,11/9/2020,19.7,Q1 2020,23,807,Completado,302.49
+24,5/31/2021,446.94,24,Pet Training Pads,Macedonia,24,9/18/2020,33.16,Q3 2020,24,229,Cancelado,459.83
+25,6/28/2021,8946.36,25,Herb Seasoned Rice,Ukraine,25,6/5/2020,10.42,Q1 2020,25,743,Cancelado,174.12
+26,6/8/2021,5926.44,26,Canned Black Beans,Colombia,26,9/3/2020,99.99,Q3 2020,26,201,Completado,37.07
+27,5/6/2021,3680.94,27,Baking Powder,Japan,27,3/16/2020,66.81,Q1 2020,27,21,Pendiente,179.64
+28,7/8/2021,5393.64,28,Homestyle Beef Stew,China,28,6/25/2020,67.74,Q3 2020,28,225,Completado,272.53
+29,6/19/2021,4409.35,29,Coffee Capsule Dispenser,Czech Republic,29,1/10/2021,65.06,Q1 2020,29,613,Completado,389.03
+30,11/20/2021,1504.56,30,Green Tea Matcha Powder,Nepal,30,11/21/2020,93.31,Q2 2020,30,282,Completado,194.23
+31,10/9/2021,1972.0,31,Organic Green Lentils,China,31,4/20/2020,91.41,Q2 2020,31,189,Cancelado,459.21
+32,3/19/2021,6906.43,32,Nutty Quinoa Salad,China,32,2/24/2020,73.61,Q2 2020,32,400,Completado,493.34
+33,12/24/2021,7993.47,33,Golf Polo Shirt,Indonesia,33,9/20/2021,23.8,Q3 2020,33,596,Cancelado,203.89
+34,9/27/2021,3413.39,34,Induction Cooktop,China,34,2/26/2020,56.41,Q2 2020,34,605,Completado,450.59
+35,8/26/2021,8831.85,35,Ripped Boyfriend Jeans,Sierra Leone,35,1/8/2021,24.65,Q1 2020,35,47,Pendiente,87.86
+36,9/4/2021,6646.62,36,Yoga Blocks,Portugal,36,9/1/2020,2.1,Q3 2020,36,723,Cancelado,31.32
+37,4/28/2021,7352.09,37,Sunflower Seeds,United States,37,11/5/2021,69.42,Q1 2020,37,552,Completado,253.86
+38,7/21/2021,4022.3,38,Spicy Thai Coconut Soup,France,38,10/8/2021,73.8,Q2 2020,38,258,Completado,130.62
+39,8/8/2021,5753.64,39,Silicone Baking Mats,China,39,12/11/2021,90.39,Q2 2020,39,757,Cancelado,135.81
+40,5/16/2021,3383.16,40,Fresh Lemons,China,40,11/23/2020,66.96,Q3 2020,40,696,Cancelado,425.41
+41,5/8/2021,7787.44,41,Arcade Game Machine,Russia,41,9/7/2021,7.13,Q3 2020,41,995,Pendiente,362.46
+42,2/23/2021,6210.97,42,Portable Hammock with Stand,Philippines,42,1/9/2020,17.38,Q3 2020,42,725,Cancelado,353.86
+43,2/16/2021,3915.2,43,Noise-Canceling Earbuds,Indonesia,43,5/21/2020,1.83,Q1 2020,43,901,Cancelado,235.51
+44,4/29/2021,7574.32,44,Lemon Herb Quinoa,Portugal,44,4/16/2021,32.42,Q2 2020,44,527,Cancelado,90.44
+45,9/28/2021,9603.1,45,Smart Light Switch,Indonesia,45,12/15/2020,11.87,Q2 2020,45,471,Cancelado,382.35
+46,10/27/2021,9158.62,46,Vegan Mac & Cheese,Philippines,46,5/24/2021,47.77,Q1 2020,46,358,Completado,218.96
+47,7/25/2021,9713.75,47,Teriyaki Stir-Fry Sauce,Indonesia,47,6/14/2021,26.89,Q3 2020,47,88,Pendiente,417.48
+48,9/5/2021,9122.71,48,Leather Biker Jacket,Philippines,48,11/12/2021,38.8,Q2 2020,48,741,Cancelado,309.4
+49,6/28/2021,8969.58,49,Folding Pocket Knife,Serbia,49,3/12/2021,41.8,Q2 2020,49,541,Cancelado,100.81
+50,7/4/2021,5721.85,50,Buffalo Cauliflower Wings,Portugal,50,5/29/2021,92.75,Q3 2020,50,33,Cancelado,465.61
+51,8/12/2021,8279.68,51,Chocolate Fudge Brownie Mix,Indonesia,51,3/29/2020,73.42,Q3 2020,51,745,Cancelado,101.94
+52,11/30/2021,5479.51,52,Multi-Purpose Scissors,China,52,2/26/2020,86.86,Q3 2020,52,385,Completado,449.05
+53,10/21/2021,802.97,53,Sweet and Sour Sauce,Czech Republic,53,9/30/2020,33.64,Q2 2020,53,40,Cancelado,351.24
+54,12/19/2021,4517.45,54,Sweet Pea Hummus,China,54,11/14/2021,44.08,Q2 2020,54,822,Completado,208.35
+55,3/30/2021,7580.7,55,Breezy Off-The-Shoulder Top,Indonesia,55,3/29/2020,45.93,Q1 2020,55,381,Completado,466.63
+56,9/11/2021,6394.17,56,Automatic Pet Feeder,Portugal,56,9/26/2021,19.68,Q3 2020,56,158,Cancelado,479.78
+57,4/20/2021,3563.22,57,Suede Ankle Booties,Portugal,57,12/12/2021,84.61,Q3 2020,57,751,Cancelado,291.86
+58,2/11/2021,643.62,58,Bluetooth Headphones,Russia,58,12/21/2021,1.68,Q3 2020,58,240,Pendiente,338.41
+59,6/19/2021,9953.83,59,Blueberry Oatmeal Cups,France,59,12/23/2020,56.12,Q2 2020,59,750,Cancelado,181.34
+60,12/14/2021,4504.18,60,Spinach Feta Wraps,Croatia,60,9/17/2021,34.51,Q3 2020,60,877,Completado,323.01
+61,4/10/2021,6265.69,61,Cabbage Slaw Mix,Nicaragua,61,8/13/2020,58.2,Q3 2020,61,314,Pendiente,239.3
+62,7/20/2021,6187.9,62,Safety Goggles,Croatia,62,5/23/2020,69.4,Q3 2020,62,210,Cancelado,313.9
+63,8/13/2021,6704.69,63,Berry Smoothie Mix,Denmark,63,6/27/2021,83.87,Q1 2020,63,259,Completado,286.13
+64,5/1/2021,3346.48,64,Ergonomic Gaming Chair,France,64,10/26/2021,48.82,Q1 2020,64,907,Cancelado,218.58
+65,7/25/2021,9115.31,65,Foam Roller for Muscle Recovery,Japan,65,1/25/2020,74.94,Q2 2020,65,482,Cancelado,440.35
+66,7/11/2021,4107.27,66,Cocktail Shaker Set,Russia,66,8/26/2020,93.76,Q3 2020,66,212,Pendiente,225.94
+67,10/24/2021,2426.11,67,Chipotle Seasoning Blend,Brazil,67,4/18/2021,99.06,Q1 2020,67,868,Cancelado,113.25
+68,1/23/2021,7676.3,68,Fruit and Nut Bars,Nicaragua,68,6/15/2020,13.28,Q3 2020,68,223,Pendiente,343.79
+69,4/11/2021,1121.17,69,Tuna Fish (canned),Indonesia,69,2/7/2020,8.19,Q2 2020,69,678,Pendiente,468.82
+70,8/31/2021,7273.46,70,Almond Joy Munch Bars,Brazil,70,3/25/2020,59.74,Q3 2020,70,727,Pendiente,346.45
+71,3/14/2021,9356.04,71,Crispy Kale Chips,Philippines,71,7/24/2021,66.23,Q2 2020,71,375,Completado,201.4
+72,7/9/2021,3210.97,72,Dried Fruit Medley,China,72,3/30/2021,2.39,Q2 2020,72,639,Completado,51.97
+73,3/12/2021,332.61,73,Pet Water Fountain with Filtration,Kenya,73,1/23/2020,90.27,Q2 2020,73,347,Cancelado,128.33
+74,10/5/2021,418.32,74,Organic Brown Sugar,Mexico,74,5/30/2021,7.7,Q3 2020,74,707,Cancelado,406.49
+75,11/29/2021,6718.16,75,Gluten-Free Bread,Portugal,75,5/17/2020,28.55,Q3 2020,75,537,Cancelado,232.05
+76,9/20/2021,1526.07,76,Peanut Butter Chocolate Chip Bars,Peru,76,3/25/2021,42.24,Q1 2020,76,43,Completado,225.37
+77,11/14/2021,174.68,77,Electric Razor,China,77,11/29/2020,32.44,Q2 2020,77,942,Pendiente,219.83
+78,5/6/2021,1889.58,78,Radish Chips,Indonesia,78,8/7/2021,58.61,Q2 2020,78,5,Cancelado,20.08
+79,6/12/2021,7806.64,79,Organic Italian Seasoning,Brazil,79,7/5/2021,76.57,Q1 2020,79,4,Cancelado,420.03
+80,12/5/2021,6918.87,80,Chocolate Peanut Butter Cups,Uzbekistan,80,11/11/2020,0.79,Q3 2020,80,297,Cancelado,192.55
+81,12/29/2021,2445.45,81,Fried Rice,United States,81,7/20/2021,55.95,Q3 2020,81,751,Pendiente,193.33
+82,8/4/2021,9417.93,82,Zesty Garlic Marinade,Indonesia,82,9/6/2020,69.78,Q2 2020,82,577,Completado,172.29
+83,2/19/2021,7533.82,83,Roasted Red Pepper Dip,Ukraine,83,7/1/2021,57.2,Q1 2020,83,415,Pendiente,307.71
+84,4/23/2021,5829.96,84,Berries Medley,Czech Republic,84,3/17/2021,31.06,Q2 2020,84,226,Completado,67.76
+85,3/18/2021,491.65,85,Kettle Corn Popcorn,France,85,2/7/2020,85.4,Q3 2020,85,786,Completado,144.2
+86,12/16/2021,6581.92,86,Fashionable Belt Bag,Colombia,86,6/24/2021,96.8,Q1 2020,86,596,Cancelado,120.92
+87,11/7/2021,1134.77,87,Frozen Acai Bowl,Portugal,87,9/10/2021,89.01,Q3 2020,87,653,Pendiente,286.65
+88,12/23/2021,9410.46,88,Scent Diffuser Oil,China,88,3/18/2021,3.26,Q3 2020,88,552,Pendiente,6.72
+89,10/17/2021,6085.5,89,Travel Makeup Organizer,Libya,89,7/29/2020,24.24,Q3 2020,89,313,Cancelado,312.45
+90,7/14/2021,2769.5,90,Chili Lime Seasoning,Bosnia and Herzegovina,90,7/17/2021,31.01,Q3 2020,90,201,Cancelado,236.7
+91,5/5/2021,631.56,91,Portable Phone Charger,Poland,91,6/26/2021,7.34,Q3 2020,91,407,Cancelado,159.78
+92,7/27/2021,2110.58,92,Personal Safety Alarm,Cameroon,92,12/29/2021,94.51,Q2 2020,92,76,Cancelado,464.54
+93,8/2/2021,8965.03,93,Breezy Off-The-Shoulder Top,China,93,10/26/2021,84.21,Q3 2020,93,916,Completado,495.57
+94,8/21/2021,8522.07,94,Cranberry Lime Sparkling Water,Sweden,94,5/9/2020,22.66,Q3 2020,94,972,Pendiente,98.27
+95,3/23/2021,8207.15,95,Travel Pillow,China,95,9/16/2020,6.23,Q1 2020,95,397,Cancelado,196.59
+96,9/17/2021,2501.73,96,Black Bean Soup,Sweden,96,5/20/2021,94.1,Q2 2020,96,47,Completado,468.68
+97,11/10/2021,6904.98,97,Compact Electric Kettle,Cameroon,97,10/31/2020,54.19,Q3 2020,97,818,Completado,212.75
+98,4/16/2021,7483.79,98,Garden Kneeler and Seat,Croatia,98,3/1/2021,94.84,Q3 2020,98,968,Cancelado,169.68
+99,6/14/2021,1339.81,99,Roasted Red Pepper Sauce,Peru,99,10/3/2020,82.24,Q2 2020,99,928,Completado,136.66
+100,6/10/2021,5020.75,100,Organic Tomato Ketchup,Ivory Coast,100,7/7/2021,81.85,Q1 2020,100,553,Completado,90.73
+101,2/8/2021,984.32,101,Mesh Sports Leggings,Azerbaijan,101,4/14/2020,30.96,Q3 2020,101,980,Completado,274.59
+102,12/4/2021,9744.67,102,Portable Blender,Indonesia,102,1/8/2020,51.27,Q1 2020,102,531,Completado,22.93
+103,3/6/2021,3484.68,103,Frozen Acai Bowl,Niger,103,2/1/2020,76.35,Q3 2020,103,601,Cancelado,134.78
+104,10/8/2021,244.69,104,Ice Cube Tray with Lid,Portugal,104,8/12/2021,2.82,Q3 2020,104,376,Completado,306.67
+105,4/27/2021,7408.88,105,Over-Ear Headphones,Indonesia,105,3/1/2021,87.33,Q1 2020,105,500,Completado,362.95
+106,9/10/2021,3032.37,106,Solar Charger,Portugal,106,9/7/2020,86.65,Q2 2020,106,255,Completado,72.42
+107,4/25/2021,6573.35,107,Coconut Curry Chicken,Palestinian Territory,107,5/8/2021,94.0,Q2 2020,107,299,Completado,126.02
+108,6/22/2021,4291.75,108,Maple Oatmeal,China,108,3/9/2021,48.74,Q1 2020,108,659,Completado,251.9
+109,11/25/2021,8027.25,109,Educational STEM Kit,Dominican Republic,109,12/26/2020,30.52,Q2 2020,109,411,Cancelado,207.18
+110,2/14/2021,1955.62,110,Ice Pack,China,110,3/19/2021,6.09,Q3 2020,110,14,Completado,113.33
+111,9/5/2021,9867.23,111,Safety Pin Dispenser,Egypt,111,10/27/2020,61.69,Q3 2020,111,239,Pendiente,147.95
+112,11/21/2021,3425.95,112,Fitness Resistance Bands Set,Indonesia,112,4/17/2021,8.46,Q2 2020,112,798,Cancelado,376.8
+113,10/30/2021,1962.7,113,Yoga Mat,Dominican Republic,113,4/8/2021,37.04,Q1 2020,113,404,Pendiente,79.94
+114,3/24/2021,4478.18,114,Chocolate Chip Muffins,China,114,6/16/2021,17.55,Q1 2020,114,408,Cancelado,418.04
+115,3/15/2021,1602.7,115,Rolling Cooler,Cameroon,115,9/11/2021,5.91,Q1 2020,115,567,Pendiente,427.93
+116,5/2/2021,3476.09,116,Savory Trail Mix,Thailand,116,10/1/2020,43.87,Q1 2020,116,130,Pendiente,40.79
+117,10/10/2021,1052.64,117,Infrared Thermometer,Russia,117,12/20/2020,71.1,Q1 2020,117,408,Completado,10.03
+118,5/20/2021,4666.51,118,Travel Shoe Bags Set,China,118,11/29/2020,88.85,Q1 2020,118,642,Completado,183.39
+119,10/6/2021,2536.72,119,Jalapeño Cornbread,Philippines,119,6/16/2021,84.6,Q2 2020,119,86,Cancelado,159.09
+120,3/16/2021,3792.22,120,Kitchen Scale,Philippines,120,3/25/2020,63.59,Q3 2020,120,592,Cancelado,362.53
+121,3/20/2021,7466.19,121,Kids' Activity Book,China,121,1/30/2021,99.76,Q1 2020,121,263,Cancelado,212.23
+122,1/31/2021,5709.95,122,Digital Camera,Palestinian Territory,122,8/2/2020,1.3,Q3 2020,122,57,Cancelado,103.18
+123,12/25/2021,536.36,123,Slingback Sandals,France,123,7/9/2020,20.06,Q2 2020,123,761,Cancelado,167.91
+124,10/29/2021,7295.26,124,Electric Butter Churn,France,124,10/21/2020,79.79,Q2 2020,124,977,Cancelado,496.27
+125,12/25/2021,3870.35,125,Non-Toxic Concrete Sealer,China,125,7/25/2020,38.98,Q1 2020,125,141,Completado,225.47
+126,10/28/2021,1791.51,126,Couscous,Sweden,126,1/10/2020,77.36,Q2 2020,126,23,Cancelado,178.2
+127,10/10/2021,5382.76,127,Fruit & Nut Trail Mix,Botswana,127,3/1/2021,82.98,Q1 2020,127,696,Cancelado,416.51
+128,2/7/2021,9526.56,128,Baked Potato Chips,Albania,128,3/16/2021,30.85,Q3 2020,128,71,Pendiente,443.01
+129,8/20/2021,7070.2,129,Compact Pop-Up Tent,China,129,12/29/2020,39.59,Q3 2020,129,948,Pendiente,345.27
+130,3/9/2021,5961.36,130,Cotton Quilted Throw Blanket,China,130,5/1/2021,69.18,Q3 2020,130,529,Cancelado,241.82
+131,4/27/2021,564.75,131,Frozen Acai Purée,Russia,131,12/21/2021,57.83,Q1 2020,131,682,Pendiente,167.89
+132,7/31/2021,3730.2,132,Electric Heat Press Machine,Indonesia,132,12/7/2020,52.85,Q2 2020,132,29,Completado,487.52
+133,7/16/2021,3609.01,133,Pork Chops,Spain,133,7/30/2021,34.51,Q2 2020,133,151,Cancelado,37.29
+134,6/14/2021,5070.18,134,Basil Pesto Pasta,Russia,134,5/9/2020,90.62,Q1 2020,134,841,Cancelado,318.64
+135,8/11/2021,7368.16,135,Ground Turkey,China,135,2/15/2020,52.67,Q2 2020,135,617,Cancelado,473.94
+136,7/15/2021,3310.82,136,Sliced Avocado,Indonesia,136,4/25/2021,29.63,Q2 2020,136,612,Completado,206.07
+137,12/25/2021,1293.75,137,Buffalo Stilton Cheese,Poland,137,12/6/2021,94.46,Q2 2020,137,659,Cancelado,105.03
+138,9/6/2021,523.47,138,DIY Lip Balm Making Kit,Bangladesh,138,8/13/2020,57.62,Q3 2020,138,233,Completado,169.92
+139,1/30/2021,6535.57,139,Coconut Flakes,China,139,10/11/2021,78.04,Q3 2020,139,540,Completado,197.35
+140,9/14/2021,4196.4,140,Instant Pot,China,140,1/24/2021,32.33,Q3 2020,140,294,Cancelado,346.01
+141,1/5/2021,3244.54,141,Savory Trail Mix,South Africa,141,10/9/2020,95.24,Q2 2020,141,553,Cancelado,260.2
+142,6/3/2021,5332.52,142,Collapsible Storage Crates,France,142,11/21/2021,18.32,Q2 2020,142,744,Completado,99.78
+143,4/29/2021,6852.69,143,Running Shorts,Peru,143,7/19/2020,70.07,Q3 2020,143,471,Cancelado,199.72
+144,12/13/2021,2845.43,144,Athletic Jogging Jacket,China,144,6/28/2021,63.91,Q2 2020,144,376,Completado,482.05
+145,3/16/2021,4975.1,145,Beet Salad,China,145,11/11/2021,52.82,Q3 2020,145,740,Pendiente,0.1
+146,4/10/2021,7193.65,146,Telescope,Russia,146,4/16/2021,0.69,Q2 2020,146,94,Cancelado,487.84
+147,3/23/2021,4949.36,147,Energy Bites,Peru,147,12/17/2020,10.37,Q3 2020,147,860,Pendiente,42.01
+148,12/15/2021,7661.35,148,Insulated Lunch Bag,China,148,3/10/2021,56.87,Q3 2020,148,400,Cancelado,428.11
+149,11/25/2021,2407.33,149,Fitness Tracker Band,Sweden,149,1/14/2020,4.14,Q2 2020,149,331,Completado,247.03
+150,10/22/2021,5209.23,150,Beef Tacos,Canada,150,12/13/2020,94.01,Q1 2020,150,1,Completado,243.73
+151,3/28/2021,4362.75,151,Sriracha Sauce,Portugal,151,5/15/2020,59.01,Q2 2020,151,703,Cancelado,47.53
+152,10/1/2021,4003.24,152,Spaghetti Sauce,United States,152,1/24/2020,76.43,Q2 2020,152,647,Completado,158.86
+153,2/7/2021,1792.27,153,Luxury Bathrobe,Peru,153,2/26/2021,58.94,Q1 2020,153,891,Pendiente,272.05
+154,3/4/2021,6484.15,154,Cocoa Powder,China,154,5/20/2021,17.62,Q2 2020,154,77,Pendiente,404.14
+155,12/9/2021,7340.41,155,Savory Oatmeal,Greece,155,11/26/2021,84.64,Q3 2020,155,767,Cancelado,263.59
+156,1/15/2021,8958.48,156,Yoga Strap,China,156,8/18/2020,37.03,Q1 2020,156,732,Completado,383.0
+157,1/8/2021,24.96,157,Coconut Curry Chicken,Ukraine,157,9/5/2021,91.36,Q3 2020,157,116,Pendiente,159.31
+158,4/17/2021,944.09,158,Maple Bacon Jerky,China,158,12/3/2021,60.3,Q2 2020,158,725,Completado,335.65
+159,10/10/2021,1629.69,159,Zucchini,Poland,159,1/26/2021,65.12,Q1 2020,159,364,Pendiente,282.25
+160,6/23/2021,2753.88,160,Wire Shelving Unit,China,160,8/6/2021,75.98,Q2 2020,160,476,Cancelado,337.89
+161,12/19/2021,9708.55,161,Lemon Herb Chicken,Hungary,161,10/24/2020,73.97,Q1 2020,161,32,Pendiente,482.96
+162,2/27/2021,1451.44,162,Whole Wheat Bread,Nepal,162,10/24/2021,52.91,Q3 2020,162,600,Cancelado,159.56
+163,8/24/2021,1667.01,163,Bird Feeder,Russia,163,5/23/2020,63.56,Q2 2020,163,510,Cancelado,337.45
+164,8/24/2021,9902.04,164,Pet Reflective Vest,Albania,164,11/28/2020,55.73,Q2 2020,164,588,Cancelado,280.74
+165,9/14/2021,6990.87,165,Pet Grooming Scissors,Belarus,165,3/18/2021,11.79,Q2 2020,165,317,Completado,366.79
+166,10/4/2021,1516.38,166,Pet Hair Removal Brush,Thailand,166,6/9/2021,34.36,Q2 2020,166,169,Cancelado,345.68
+167,1/23/2021,5531.93,167,Set of Herb Garden Markers,Czech Republic,167,7/14/2020,59.55,Q1 2020,167,798,Cancelado,479.43
+168,4/4/2021,2100.57,168,Fitness Tracker with Heart Rate Monitor,Philippines,168,7/29/2021,18.45,Q2 2020,168,749,Cancelado,285.9
+169,8/7/2021,2090.3,169,Lemon Garlic Shrimp,Denmark,169,4/10/2020,26.15,Q3 2020,169,900,Pendiente,116.72
+170,12/6/2021,8370.08,170,Classic Beef Chili,China,170,11/7/2020,54.77,Q3 2020,170,439,Completado,274.28
+171,4/2/2021,7465.93,171,Buffalo Cauliflower Wings,Indonesia,171,6/2/2021,61.63,Q1 2020,171,474,Pendiente,55.36
+172,10/9/2021,5798.11,172,Coconut Cream Pie,China,172,7/20/2020,0.94,Q1 2020,172,268,Completado,235.35
+173,9/28/2021,1898.23,173,Cordless Water Flosser,Portugal,173,5/17/2020,4.76,Q3 2020,173,558,Completado,272.89
+174,3/31/2021,3249.24,174,Peach Halves (canned),Czech Republic,174,8/4/2020,11.79,Q2 2020,174,174,Pendiente,116.12
+175,6/1/2021,7650.7,175,LED Flashlight,Poland,175,6/21/2021,43.22,Q2 2020,175,982,Cancelado,20.28
+176,4/6/2021,1807.2,176,Vegan Alfredo Sauce,China,176,7/6/2021,36.32,Q3 2020,176,364,Completado,340.33
+177,6/30/2021,7987.89,177,Crispy Rice Treats,Russia,177,2/16/2021,34.07,Q2 2020,177,761,Pendiente,246.67
+178,1/7/2021,9096.98,178,Rechargeable Hand Warmer,Colombia,178,9/19/2020,19.87,Q2 2020,178,673,Completado,99.48
+179,5/10/2021,3308.49,179,DIY Lip Balm Making Kit,Greece,179,5/2/2021,7.93,Q1 2020,179,783,Pendiente,332.44
+180,5/19/2021,562.89,180,Adjustable Garden Rake,Bangladesh,180,1/3/2021,45.68,Q2 2020,180,254,Pendiente,94.3
+181,3/18/2021,9242.92,181,Silicone Baking Cups,Brazil,181,8/13/2021,75.88,Q1 2020,181,351,Pendiente,495.71
+182,9/14/2021,1283.69,182,Avocados,China,182,4/29/2021,37.33,Q1 2020,182,718,Cancelado,115.0
+183,4/14/2021,7292.12,183,Electric Air Pump,China,183,4/19/2021,96.14,Q1 2020,183,500,Completado,389.76
+184,11/14/2021,1341.18,184,Adjustable Garden Rake,China,184,1/21/2020,81.09,Q1 2020,184,291,Cancelado,112.88
+185,6/27/2021,9728.08,185,Beef Enchilada Casserole,Indonesia,185,1/18/2021,62.77,Q2 2020,185,833,Pendiente,458.81
+186,9/23/2021,2117.08,186,Organic Cereal Bars,Poland,186,3/1/2021,56.86,Q3 2020,186,136,Completado,120.35
+187,12/22/2021,9492.28,187,Antique Style Clock,Brazil,187,6/30/2021,88.38,Q2 2020,187,29,Pendiente,248.2
+188,2/17/2021,9809.96,188,Reusable Coffee Filter,Indonesia,188,12/17/2020,32.35,Q1 2020,188,305,Pendiente,193.1
+189,10/23/2021,4504.06,189,Recipe Book Stand,Philippines,189,12/25/2021,59.24,Q1 2020,189,59,Pendiente,349.02
+190,7/26/2021,193.22,190,Cinnamon Roll Protein Bar,China,190,9/6/2021,79.95,Q3 2020,190,463,Cancelado,25.56
+191,10/9/2021,2812.93,191,Electrolyte Water Bottle,Thailand,191,1/27/2020,44.25,Q1 2020,191,663,Completado,314.29
+192,5/29/2021,2429.08,192,Black Bean Spaghetti,China,192,12/1/2020,84.6,Q3 2020,192,48,Pendiente,154.12
+193,11/17/2021,6030.51,193,Cinnamon Raisin Bagels,Russia,193,7/29/2021,86.75,Q2 2020,193,521,Cancelado,57.4
+194,1/8/2021,3498.6,194,Avocados,Lithuania,194,4/14/2020,3.64,Q1 2020,194,527,Pendiente,198.48
+195,8/14/2021,5754.6,195,Cinnamon Apple Sauce,Democratic Republic of the Congo,195,1/6/2020,26.51,Q1 2020,195,742,Cancelado,340.21
+196,3/8/2021,3158.49,196,Spicy Avocado Salsa,Albania,196,7/3/2020,97.32,Q3 2020,196,60,Cancelado,239.1
+197,5/16/2021,4112.54,197,Dark Chocolate Bars,China,197,7/8/2020,78.53,Q2 2020,197,203,Cancelado,84.15
+198,1/15/2021,5561.53,198,Sesame Oil,Ukraine,198,7/10/2021,22.79,Q3 2020,198,535,Completado,185.53
+199,12/13/2021,7614.09,199,Pizza Stone,South Africa,199,7/6/2020,16.65,Q2 2020,199,899,Completado,172.65
+200,4/9/2021,4979.28,200,Fridge Magnet Set,Brazil,200,7/11/2021,43.18,Q2 2020,200,231,Completado,379.94
+201,10/16/2021,6168.22,201,Folding Exercise Bike,Peru,201,5/4/2021,27.93,Q3 2020,201,688,Completado,360.18
+202,1/10/2021,6689.38,202,Smart Thermostat,Indonesia,202,5/22/2021,55.62,Q2 2020,202,303,Pendiente,464.81
+203,12/20/2021,4306.64,203,Chili Beans in Sauce,Japan,203,7/23/2020,0.08,Q3 2020,203,38,Pendiente,265.25
+204,4/10/2021,6838.86,204,Fleece Lined Leggings,Ukraine,204,12/22/2020,3.91,Q2 2020,204,783,Pendiente,92.01
+205,7/22/2021,4305.83,205,Instant Mashed Potatoes,Indonesia,205,4/7/2020,53.86,Q2 2020,205,92,Completado,30.37
+206,6/7/2021,9579.08,206,Chili Lime Seasoning,Indonesia,206,8/3/2021,67.54,Q1 2020,206,731,Pendiente,40.12
+207,8/10/2021,2350.61,207,Portable Hand Warmer,Poland,207,1/21/2021,8.02,Q3 2020,207,983,Cancelado,377.22
+208,10/11/2021,9713.12,208,Smart Water Bottle,Indonesia,208,10/14/2021,52.83,Q3 2020,208,786,Pendiente,206.76
+209,12/7/2021,5409.3,209,Siphon Coffee Maker,China,209,6/8/2020,36.18,Q3 2020,209,693,Pendiente,486.01
+210,2/21/2021,6691.63,210,Digital Stopwatch Timer,Indonesia,210,8/12/2021,65.13,Q1 2020,210,488,Cancelado,132.9
+211,1/13/2021,7343.64,211,Coconut Cream Pie,Brazil,211,12/11/2021,48.29,Q2 2020,211,908,Completado,149.1
+212,5/29/2021,2586.56,212,Chocolate Raspberry Tart,China,212,3/23/2020,32.06,Q1 2020,212,768,Cancelado,178.71
+213,6/23/2021,6214.49,213,Thai Coconut Curry Sauce,China,213,5/13/2020,20.65,Q2 2020,213,724,Cancelado,124.87
+214,8/6/2021,1845.16,214,Artisan Bread,China,214,11/2/2021,83.16,Q1 2020,214,828,Cancelado,358.26
+215,6/24/2021,6664.17,215,Bamboo Toothbrush,Thailand,215,12/6/2020,12.71,Q2 2020,215,999,Pendiente,326.7
+216,3/2/2021,3525.48,216,Board Game,China,216,12/13/2021,53.3,Q3 2020,216,705,Cancelado,293.73
+217,5/30/2021,4830.38,217,Children's Educational Puzzle,Morocco,217,10/26/2020,90.13,Q1 2020,217,5,Cancelado,70.18
+218,7/15/2021,1491.78,218,Electric Rice Cooker with Steamer,Greece,218,11/28/2020,45.14,Q1 2020,218,535,Pendiente,231.31
+219,10/2/2021,4296.49,219,Honey BBQ Riblets,Portugal,219,8/19/2021,98.37,Q3 2020,219,49,Cancelado,16.48
+220,4/17/2021,7850.22,220,Toy Building Set,China,220,3/29/2021,93.44,Q1 2020,220,474,Pendiente,378.87
+221,3/23/2021,2177.5,221,Wild Rice Pilaf,China,221,9/13/2021,18.69,Q2 2020,221,976,Completado,462.89
+222,5/21/2021,3345.79,222,Banana Peanut Butter Smoothie,China,222,2/11/2021,65.46,Q1 2020,222,489,Completado,218.53
+223,12/9/2021,5749.04,223,Noise-Canceling Headphones,Chile,223,6/3/2021,29.21,Q3 2020,223,299,Pendiente,465.95
+224,9/24/2021,8134.14,224,Laptop Sleeve,Peru,224,1/13/2021,35.32,Q2 2020,224,369,Completado,104.9
+225,6/1/2021,3716.8,225,Traditional Hummus,Philippines,225,3/11/2020,11.46,Q2 2020,225,603,Cancelado,62.41
+226,3/28/2021,5982.47,226,Tactical Backpack,Japan,226,9/2/2020,88.55,Q1 2020,226,987,Cancelado,333.61
+227,1/2/2021,311.76,227,Sweet Potato & Kale Hash,Madagascar,227,3/2/2020,80.91,Q1 2020,227,894,Completado,51.88
+228,3/21/2021,3254.92,228,Frozen Burritos,Poland,228,8/4/2021,50.58,Q3 2020,228,331,Completado,203.58
+229,8/28/2021,6503.12,229,Portable Charcoal Grill,China,229,5/21/2021,1.41,Q2 2020,229,716,Completado,101.05
+230,3/25/2021,2022.67,230,Coloring Books for Adults,Sweden,230,12/19/2021,30.99,Q1 2020,230,645,Cancelado,151.96
+231,11/19/2021,6257.12,231,Collapsible Camping Cup,China,231,9/10/2021,47.17,Q1 2020,231,346,Pendiente,182.55
+232,5/8/2021,2014.32,232,Faux Fur Coat,Senegal,232,5/20/2020,70.69,Q1 2020,232,631,Completado,232.97
+233,11/27/2021,5826.88,233,Mushroom Soup (canned),China,233,12/17/2021,29.21,Q1 2020,233,386,Completado,22.02
+234,9/22/2021,2951.45,234,Maple Pecan Pancake Mix,Sweden,234,4/1/2021,52.91,Q2 2020,234,107,Cancelado,236.73
+235,1/20/2021,3413.74,235,Cinnamon Spiced Almonds,Philippines,235,7/23/2021,62.43,Q3 2020,235,203,Cancelado,32.65
+236,2/12/2021,1488.77,236,Graphic Sweatshirt,France,236,4/8/2020,27.59,Q2 2020,236,892,Completado,38.05
+237,11/28/2021,5578.1,237,Dark Chocolate Covered Raisins,Jamaica,237,8/29/2021,13.32,Q2 2020,237,564,Completado,491.62
+238,8/26/2021,8527.46,238,Herb Garden Planter Box,China,238,11/10/2020,55.64,Q1 2020,238,130,Completado,473.05
+239,11/26/2021,6051.22,239,Beef Stroganoff Mix,Spain,239,3/10/2020,28.4,Q2 2020,239,327,Completado,326.41
+240,8/2/2021,5445.43,240,Cotton Sweatpants,Honduras,240,5/10/2020,10.85,Q2 2020,240,789,Cancelado,34.65
+241,8/17/2021,120.93,241,Magnetic Puzzle Board,United States,241,3/25/2020,87.82,Q1 2020,241,831,Pendiente,444.38
+242,2/5/2021,4623.95,242,Roasted Garlic Aioli,Poland,242,1/5/2020,49.37,Q2 2020,242,555,Completado,399.87
+243,2/1/2021,6230.06,243,Wrap Front Midi Skirt,Macedonia,243,9/19/2021,26.15,Q1 2020,243,583,Pendiente,137.81
+244,5/19/2021,1856.55,244,Chocolate Chip Cookie Mix,Serbia,244,12/10/2021,8.64,Q2 2020,244,434,Pendiente,372.64
+245,6/16/2021,2326.73,245,Pasta Portion Control Measure,France,245,9/30/2020,8.45,Q1 2020,245,741,Completado,357.11
+246,1/8/2021,820.27,246,Arcade Game Machine,Russia,246,11/22/2020,12.22,Q2 2020,246,774,Pendiente,256.17
+247,5/19/2021,2714.93,247,Blue Corn Tortilla Chips,Vietnam,247,10/14/2021,79.22,Q3 2020,247,285,Pendiente,208.49
+248,8/20/2021,6865.17,248,Wireless Induction Charger,Cuba,248,10/24/2020,27.47,Q3 2020,248,422,Pendiente,145.63
+249,9/25/2021,6664.06,249,Relaxed Fit Henley Shirt,Indonesia,249,10/14/2020,1.24,Q3 2020,249,641,Completado,458.77
+250,1/11/2021,2270.49,250,Pita Bread,China,250,10/11/2021,76.09,Q3 2020,250,764,Cancelado,42.22
+251,2/7/2021,2986.19,251,Spicy Garlic Edamame,China,251,4/7/2020,14.08,Q3 2020,251,219,Completado,407.4
+252,1/25/2021,2028.39,252,Interchangeable Watch Bands,China,252,11/21/2020,85.8,Q3 2020,252,166,Pendiente,126.08
+253,1/30/2021,4284.27,253,Spicy Italian Sausage,China,253,5/27/2020,95.43,Q3 2020,253,23,Pendiente,432.65
+254,6/16/2021,6604.4,254,Electric Heat Press Machine,Russia,254,10/21/2020,7.03,Q3 2020,254,902,Cancelado,143.07
+255,5/23/2021,1818.12,255,Decorative Throw Blanket,Indonesia,255,10/10/2020,90.05,Q1 2020,255,85,Cancelado,67.35
+256,6/20/2021,5013.27,256,Bluetooth Sleep Headphones,China,256,5/13/2020,28.2,Q1 2020,256,936,Cancelado,41.02
+257,5/1/2021,8317.24,257,Cotton Pajama Set,Malta,257,10/10/2020,73.49,Q1 2020,257,610,Cancelado,213.73
+258,3/24/2021,9292.46,258,Tomatillo Salsa,Philippines,258,10/2/2021,8.09,Q2 2020,258,236,Pendiente,342.55
+259,12/20/2021,3942.63,259,Nutritional Yeast,Philippines,259,6/7/2021,79.58,Q3 2020,259,726,Pendiente,429.24
+260,12/30/2021,9582.39,260,Lemon Herb Quinoa,China,260,6/29/2020,29.05,Q3 2020,260,430,Cancelado,192.86
+261,4/4/2021,1244.46,261,Honeycrisp Apple Chips,Norway,261,6/26/2021,65.92,Q1 2020,261,420,Pendiente,251.48
+262,3/24/2021,6080.27,262,Maple Oatmeal,Indonesia,262,5/26/2021,22.69,Q2 2020,262,964,Cancelado,143.6
+263,5/29/2021,6381.75,263,Corn Tortillas,Netherlands,263,8/3/2021,59.92,Q3 2020,263,664,Pendiente,400.81
+264,4/6/2021,3902.83,264,Almond Joy Bars,Brazil,264,10/23/2021,25.6,Q2 2020,264,490,Cancelado,78.22
+265,4/4/2021,3511.12,265,Zucchini,Thailand,265,6/15/2021,2.57,Q3 2020,265,966,Completado,402.71
+266,7/23/2021,9310.06,266,Sustainable Wooden Toys,Indonesia,266,9/15/2020,73.64,Q3 2020,266,0,Completado,214.19
+267,11/23/2021,436.97,267,Dog Walking Waist Pack,Japan,267,2/18/2020,62.47,Q3 2020,267,812,Completado,172.58
+268,4/6/2021,3977.99,268,Peas (frozen),China,268,8/10/2020,52.2,Q3 2020,268,774,Cancelado,170.88
+269,9/26/2021,5814.78,269,Multifunctional Pocket Tool,Indonesia,269,10/1/2020,82.38,Q1 2020,269,245,Cancelado,491.31
+270,2/11/2021,8983.35,270,Maple Pecan Granola,China,270,1/21/2020,89.73,Q3 2020,270,808,Completado,335.73
+271,1/21/2021,7544.87,271,Pet Grooming Brush,United States,271,11/17/2021,99.54,Q3 2020,271,503,Cancelado,225.07
+272,8/12/2021,8720.15,272,Honey Mustard Sauce,Ukraine,272,8/20/2020,68.11,Q1 2020,272,945,Completado,78.55
+273,7/8/2021,3663.81,273,Pretzel Bites,Russia,273,10/7/2020,11.29,Q3 2020,273,451,Cancelado,55.27
+274,10/9/2021,7187.47,274,Sports Water Bottle with Infuser,Brazil,274,7/4/2020,11.52,Q3 2020,274,348,Pendiente,35.39
+275,10/19/2021,777.3,275,Smart Thermostat with Wi-Fi,Portugal,275,2/4/2020,63.2,Q2 2020,275,782,Completado,476.15
+276,3/1/2021,8937.97,276,BBQ Sauce,China,276,2/20/2020,67.56,Q3 2020,276,475,Completado,313.39
+277,12/13/2021,7246.06,277,Thai Green Curry Paste,Brazil,277,10/13/2020,64.85,Q2 2020,277,233,Pendiente,145.38
+278,8/4/2021,4400.2,278,Silicone Cooking Utensils Set,Indonesia,278,1/28/2020,22.31,Q2 2020,278,274,Cancelado,148.13
+279,4/4/2021,6254.95,279,Black Olives,South Africa,279,1/11/2021,38.6,Q1 2020,279,159,Pendiente,201.96
+280,3/23/2021,3788.99,280,Portable Solar Path Lights,South Africa,280,6/24/2020,87.89,Q3 2020,280,223,Cancelado,391.61
+281,1/4/2021,4975.83,281,Gaming Mousepad,China,281,2/10/2020,31.76,Q3 2020,281,926,Pendiente,266.32
+282,9/17/2021,4838.03,282,Pesto Genovese,China,282,8/13/2020,61.16,Q3 2020,282,224,Completado,373.82
+283,8/2/2021,7760.96,283,Portable Air Pump,Indonesia,283,7/13/2020,7.17,Q2 2020,283,148,Cancelado,159.69
+284,5/5/2021,1473.0,284,Vegetable Fried Rice Mix,China,284,12/18/2020,99.88,Q2 2020,284,426,Cancelado,189.04
+285,3/29/2021,1046.72,285,Sunflower Seeds,Russia,285,10/10/2020,98.75,Q2 2020,285,466,Completado,221.94
+286,9/16/2021,8014.24,286,Gluten-Free Biscuits,Panama,286,12/23/2020,7.9,Q1 2020,286,742,Completado,78.29
+287,5/19/2021,8194.4,287,Floral Summer Dress,Philippines,287,10/14/2021,60.98,Q2 2020,287,394,Cancelado,476.45
+288,5/15/2021,5769.14,288,Frozen Hash Browns,China,288,11/5/2020,35.12,Q1 2020,288,617,Cancelado,385.11
+289,6/21/2021,4952.53,289,Vegetarian Stuffed Peppers,South Africa,289,3/15/2021,37.01,Q1 2020,289,854,Completado,6.38
+290,4/13/2021,4055.58,290,Garlic Parmesan Roasted Potatoes,Georgia,290,11/15/2021,10.45,Q3 2020,290,51,Pendiente,22.01
+291,11/20/2021,3362.71,291,Peanut Butter Chocolate Chip Bars,Brazil,291,6/17/2021,88.77,Q3 2020,291,953,Completado,295.04
+292,5/2/2021,641.2,292,Savory Rice Cakes,China,292,4/20/2020,10.64,Q1 2020,292,576,Completado,478.95
+293,8/27/2021,1913.57,293,Stainless Steel Straws,United States,293,2/27/2021,21.74,Q2 2020,293,986,Cancelado,24.57
+294,2/28/2021,6377.11,294,Oven-Baked Sweet Potato Fries,Thailand,294,9/26/2021,69.54,Q1 2020,294,234,Cancelado,466.59
+295,2/10/2021,4887.64,295,Balsamic Fig Dressing,Russia,295,2/24/2020,38.98,Q3 2020,295,82,Pendiente,53.23
+296,10/25/2021,3584.51,296,Garden Vegetable Soup,China,296,6/27/2020,69.4,Q2 2020,296,234,Cancelado,438.82
+297,8/6/2021,6154.63,297,Portable Massage Table,Poland,297,1/1/2021,73.88,Q3 2020,297,898,Completado,16.19
+298,5/22/2021,1577.38,298,Classic Bagels,Philippines,298,5/8/2020,69.31,Q2 2020,298,276,Cancelado,396.3
+299,11/22/2021,5371.48,299,First Aid Kit,China,299,2/19/2021,67.06,Q1 2020,299,136,Cancelado,323.2
+300,1/1/2021,6043.57,300,Plant Pot Drip Trays,Jamaica,300,10/28/2020,29.18,Q1 2020,300,873,Cancelado,359.79
+301,1/14/2021,6828.72,301,Pet Leash,United Kingdom,301,8/25/2021,70.64,Q2 2020,301,664,Pendiente,211.63
+302,2/17/2021,8711.41,302,White Rice,United States,302,1/1/2021,48.1,Q2 2020,302,88,Cancelado,174.73
+303,8/28/2021,672.48,303,Ginger Turmeric Tea,Colombia,303,1/23/2020,12.93,Q1 2020,303,228,Cancelado,4.96
+304,5/16/2021,9875.99,304,Maple Oatmeal,Uzbekistan,304,6/22/2021,56.09,Q3 2020,304,998,Cancelado,40.1
+305,10/19/2021,4953.61,305,Snack Container Set,Indonesia,305,10/28/2021,15.61,Q2 2020,305,820,Cancelado,389.22
+306,3/20/2021,6572.94,306,Beef Sirloin Steak,Colombia,306,8/30/2021,8.44,Q3 2020,306,640,Pendiente,377.38
+307,7/7/2021,446.17,307,Compressible Packing Cubes,China,307,10/4/2020,22.11,Q2 2020,307,731,Cancelado,495.91
+308,8/13/2021,2194.06,308,Instant Read Meat Thermometer,Croatia,308,9/28/2021,72.14,Q2 2020,308,71,Completado,350.62
+309,12/12/2021,9199.26,309,Waffle Maker,Poland,309,7/10/2021,89.63,Q1 2020,309,338,Pendiente,162.7
+310,4/4/2021,3060.19,310,Sriracha Hot Chili Sauce,China,310,1/18/2020,32.89,Q1 2020,310,527,Cancelado,438.08
+311,4/24/2021,7357.17,311,Ice Cube Tray with Lid,Portugal,311,5/11/2021,53.33,Q2 2020,311,182,Cancelado,182.82
+312,10/10/2021,3125.29,312,Chocolate Peanut Butter Cups,China,312,11/25/2021,57.91,Q1 2020,312,285,Completado,275.01
+313,1/17/2021,7958.04,313,Gaming Headset,China,313,7/13/2020,40.96,Q3 2020,313,541,Completado,200.44
+314,7/3/2021,9732.97,314,Wireless Charging Pad,Yemen,314,11/3/2021,1.62,Q3 2020,314,654,Cancelado,0.56
+315,8/15/2021,7391.06,315,Coconut Water,Ukraine,315,3/5/2020,81.93,Q3 2020,315,385,Pendiente,404.55
+316,2/22/2021,9752.96,316,Carrot Sticks,Indonesia,316,10/15/2021,44.44,Q2 2020,316,41,Completado,217.99
+317,5/17/2021,8984.38,317,Tailgating Set,China,317,2/13/2020,71.99,Q1 2020,317,330,Cancelado,446.56
+318,7/13/2021,3353.71,318,Car Phone Mount,Sweden,318,7/27/2021,0.56,Q2 2020,318,906,Cancelado,120.51
+319,11/15/2021,4259.95,319,Children's Backpack,El Salvador,319,3/2/2020,48.33,Q3 2020,319,664,Completado,402.22
+320,12/9/2021,8234.38,320,Andouille Sausage,Malaysia,320,10/7/2021,92.02,Q3 2020,320,477,Completado,343.91
+321,1/3/2021,267.88,321,Apple Cinnamon Granola,Peru,321,1/10/2021,63.31,Q3 2020,321,399,Pendiente,291.02
+322,9/8/2021,8772.6,322,Smart Wi-Fi Camera,Indonesia,322,3/4/2021,68.3,Q2 2020,322,661,Cancelado,217.84
+323,7/29/2021,6136.52,323,Spicy Kimchi,Morocco,323,5/15/2021,86.43,Q3 2020,323,806,Cancelado,351.72
+324,12/2/2021,9133.19,324,Mini Indoor Herb Garden Kit,Indonesia,324,8/10/2020,6.43,Q1 2020,324,205,Completado,269.58
+325,10/15/2021,9989.33,325,Aeropress Coffee Maker,Indonesia,325,7/5/2021,56.49,Q1 2020,325,966,Cancelado,53.96
+326,8/1/2021,7994.87,326,Spinach Pizza Rolls,China,326,9/7/2021,73.43,Q3 2020,326,817,Cancelado,156.42
+327,12/6/2021,5590.61,327,Thyme,China,327,8/5/2020,47.45,Q3 2020,327,581,Cancelado,82.39
+328,12/5/2021,2854.8,328,Chipotle Lime Salsa,Portugal,328,9/24/2020,70.36,Q3 2020,328,290,Completado,377.51
+329,5/10/2021,3008.39,329,Warm Knit Beanie,Indonesia,329,7/10/2020,66.01,Q3 2020,329,166,Completado,311.46
+330,9/21/2021,4274.29,330,Pasta Primavera,China,330,11/29/2021,24.46,Q3 2020,330,771,Completado,238.59
+331,11/20/2021,5512.65,331,Sweet Potato and Chickpea Bowl,United States,331,7/6/2020,54.0,Q3 2020,331,34,Cancelado,453.09
+332,7/19/2021,7984.53,332,Garlic Parmesan Roasted Potatoes,Ecuador,332,9/25/2020,62.28,Q2 2020,332,524,Cancelado,259.57
+333,11/26/2021,5339.07,333,Lemonade Mix,China,333,11/26/2020,9.62,Q2 2020,333,796,Completado,443.86
+334,3/18/2021,7757.61,334,Portable Hammock,Russia,334,5/17/2020,28.72,Q1 2020,334,174,Cancelado,223.6
+335,8/29/2021,315.51,335,Digital Food Scale,Indonesia,335,9/5/2020,96.96,Q3 2020,335,948,Pendiente,242.85
+336,1/31/2021,723.12,336,Sporty Cap,Thailand,336,6/20/2021,58.68,Q3 2020,336,866,Completado,213.8
+337,8/2/2021,3773.34,337,Pumpkin Waffles,China,337,1/26/2020,31.09,Q1 2020,337,698,Cancelado,408.81
+338,5/17/2021,4616.44,338,Mini Indoor Hydroponic Garden,Uganda,338,11/7/2021,72.18,Q2 2020,338,435,Completado,196.57
+339,11/3/2021,5049.1,339,Organic Fruit Salad,Colombia,339,3/20/2021,48.26,Q3 2020,339,805,Completado,429.32
+340,5/16/2021,187.04,340,Electric Hot Water Dispenser,El Salvador,340,5/1/2020,30.08,Q2 2020,340,81,Completado,25.95
+341,3/2/2021,4013.65,341,Dried Mango Slices,Philippines,341,4/14/2020,73.82,Q3 2020,341,894,Completado,60.95
+342,9/5/2021,7217.22,342,Laptop Sleeve,China,342,7/4/2021,39.35,Q2 2020,342,94,Pendiente,106.07
+343,10/31/2021,9110.59,343,Granola Bars,Poland,343,11/30/2020,64.08,Q2 2020,343,584,Cancelado,234.71
+344,8/18/2021,6648.57,344,Compressible Packing Cubes,Vietnam,344,11/15/2020,91.53,Q1 2020,344,327,Completado,280.24
+345,11/15/2021,7563.33,345,Portable Camping Stove,Sweden,345,3/21/2020,80.6,Q1 2020,345,791,Pendiente,198.87
+346,5/7/2021,4074.05,346,Wireless Smart Plug,Japan,346,3/9/2020,97.71,Q1 2020,346,957,Cancelado,163.65
+347,10/25/2021,6576.51,347,Radish Chips,Portugal,347,1/14/2021,61.87,Q2 2020,347,756,Cancelado,409.45
+348,8/11/2021,6344.49,348,Fall-Themed Table Runner,China,348,3/4/2021,63.94,Q1 2020,348,216,Completado,66.84
+349,3/15/2021,5241.37,349,Dog Frisbee Toy,Russia,349,4/26/2021,36.3,Q1 2020,349,663,Pendiente,192.5
+350,3/6/2021,1686.66,350,Wi-Fi Enabled Smart Light Switch,Indonesia,350,9/9/2021,96.55,Q3 2020,350,437,Cancelado,164.72
+351,10/20/2021,8803.38,351,Camping Tarp,Philippines,351,7/17/2020,57.04,Q1 2020,351,697,Completado,486.56
+352,1/2/2021,8735.77,352,LED Canopy Lights,Indonesia,352,2/14/2021,20.94,Q2 2020,352,366,Cancelado,459.02
+353,12/8/2021,6114.15,353,Cranberry Juice,China,353,1/26/2021,57.85,Q3 2020,353,860,Completado,391.27
+354,12/22/2021,8337.85,354,Coconut Curry Lentils,Portugal,354,1/18/2020,3.34,Q2 2020,354,942,Completado,33.91
+355,1/16/2021,5970.66,355,Zesty Cilantro Lime Dressing,Poland,355,6/12/2021,33.73,Q3 2020,355,101,Completado,322.22
+356,7/23/2021,1227.6,356,Ice Cream Maker,Indonesia,356,10/1/2020,93.41,Q2 2020,356,405,Cancelado,91.2
+357,3/16/2021,7830.48,357,Set of Decorative Storage Bins,Nigeria,357,3/24/2020,21.65,Q2 2020,357,31,Completado,145.5
+358,6/12/2021,9289.51,358,Organic Black Beans,China,358,8/19/2021,14.6,Q3 2020,358,425,Cancelado,215.86
+359,10/30/2021,4164.66,359,Yoga Blocks,Albania,359,8/19/2021,5.58,Q2 2020,359,156,Cancelado,497.87
+360,5/2/2021,9159.93,360,Fashionable Fanny Pack,Poland,360,1/21/2021,22.81,Q2 2020,360,882,Cancelado,66.6
+361,6/4/2021,677.32,361,Wireless Security Camera,Panama,361,5/31/2021,67.37,Q1 2020,361,784,Completado,118.26
+362,6/12/2021,8433.81,362,Coconut Bowls Set,Uganda,362,10/22/2020,37.51,Q2 2020,362,4,Pendiente,243.25
+363,12/25/2021,1347.31,363,Children's Garden Tool Set,Dominican Republic,363,2/16/2021,81.45,Q2 2020,363,712,Pendiente,246.12
+364,9/13/2021,1766.76,364,Savory Oats,Indonesia,364,6/30/2020,80.49,Q2 2020,364,815,Pendiente,165.95
+365,7/10/2021,6210.8,365,Safety Pin Dispenser,Norway,365,3/21/2020,77.42,Q2 2020,365,381,Cancelado,180.25
+366,6/27/2021,6909.44,366,Pet Travel Carrier,Jordan,366,6/28/2020,1.12,Q3 2020,366,79,Cancelado,290.71
+367,4/9/2021,3068.82,367,Barbecue Chicken Pizza,Jamaica,367,4/17/2020,43.54,Q3 2020,367,847,Completado,162.87
+368,5/23/2021,7778.59,368,Travel Organizer,Indonesia,368,4/29/2020,22.28,Q3 2020,368,347,Pendiente,409.96
+369,10/9/2021,5054.8,369,Rechargeable Battery Organizer,Australia,369,11/7/2021,69.42,Q1 2020,369,180,Completado,290.92
+370,11/14/2021,4916.94,370,Nature Explorer Lens Kit,Russia,370,12/24/2021,21.02,Q2 2020,370,519,Completado,370.97
+371,1/6/2021,4501.63,371,Miso Soup Starter,Ethiopia,371,6/26/2021,9.55,Q3 2020,371,524,Cancelado,152.15
+372,3/5/2021,155.94,372,Belted Trench Coat,Poland,372,7/6/2020,79.08,Q2 2020,372,595,Pendiente,285.97
+373,2/4/2021,9776.35,373,Maple Pecan Granola,Japan,373,11/7/2021,30.0,Q3 2020,373,195,Cancelado,246.48
+374,10/28/2021,3822.92,374,Honey Mustard Sauce,United States,374,3/3/2021,10.15,Q2 2020,374,747,Completado,290.84
+375,2/22/2021,9295.12,375,Pet Caress Brush,Indonesia,375,2/28/2021,45.8,Q3 2020,375,986,Cancelado,16.73
+376,9/9/2021,1801.49,376,Whipped Cream Cheese,China,376,3/10/2021,4.98,Q2 2020,376,811,Completado,362.12
+377,9/23/2021,8949.95,377,Organic Whole Wheat Flour,Russia,377,10/9/2021,29.75,Q3 2020,377,66,Completado,107.12
+378,12/30/2021,1709.25,378,Satin Slip Dress,China,378,4/8/2021,11.1,Q3 2020,378,95,Completado,294.35
+379,12/19/2021,2521.85,379,Smoky BBQ Jackfruit,Vietnam,379,5/15/2021,75.35,Q3 2020,379,628,Completado,211.78
+380,7/8/2021,4972.81,380,Lightweight Workout Tank,Indonesia,380,10/9/2021,7.14,Q2 2020,380,135,Completado,390.36
+381,12/15/2021,3196.26,381,Smart Wi-Fi Camera,Malta,381,7/16/2020,42.56,Q1 2020,381,192,Cancelado,289.6
+382,5/7/2021,4309.05,382,Sweet Cherry Tomatoes,United States,382,9/12/2020,52.04,Q2 2020,382,688,Cancelado,116.99
+383,1/20/2021,3399.38,383,Kids Tablet,Indonesia,383,12/26/2021,98.74,Q2 2020,383,892,Completado,226.85
+384,6/23/2021,3986.19,384,Smartphone Projector Kit,Slovenia,384,10/14/2021,3.1,Q1 2020,384,453,Cancelado,358.43
+385,1/21/2021,4855.09,385,Heated Throw Blanket,Philippines,385,3/12/2020,36.28,Q1 2020,385,262,Cancelado,42.73
+386,10/7/2021,9325.37,386,Almond Butter Crunch Bar,China,386,1/11/2021,46.09,Q2 2020,386,734,Cancelado,372.47
+387,10/10/2021,8063.89,387,Plant-Based Meal Prep Containers,Colombia,387,3/16/2020,88.25,Q3 2020,387,945,Cancelado,171.28
+388,11/1/2021,5719.0,388,Gardening Tool Belt,Indonesia,388,7/26/2021,48.59,Q2 2020,388,308,Cancelado,416.68
+389,1/17/2021,5635.05,389,Sliced Ham,China,389,6/13/2021,84.61,Q3 2020,389,407,Pendiente,227.41
+390,4/11/2021,670.85,390,Maple Bacon Potato Chips,Russia,390,10/25/2020,95.04,Q3 2020,390,784,Completado,112.83
+391,11/26/2021,9719.04,391,Veggie Burger Patties,Indonesia,391,9/1/2021,73.01,Q3 2020,391,647,Pendiente,404.44
+392,3/14/2021,187.51,392,Portable Camping Shower,Syria,392,9/29/2020,69.19,Q3 2020,392,406,Cancelado,345.23
+393,1/1/2021,2806.04,393,Frozen Acai Bowl,Indonesia,393,8/13/2021,60.25,Q1 2020,393,302,Pendiente,105.44
+394,3/4/2021,5763.83,394,Savory Oatmeal Cups,Canada,394,12/24/2020,64.57,Q3 2020,394,350,Pendiente,289.5
+395,7/20/2021,9988.61,395,Ready-to-Eat Chili,China,395,7/4/2021,73.93,Q3 2020,395,267,Cancelado,15.96
+396,12/25/2021,8803.44,396,Garden Tool Belt,Vietnam,396,11/19/2020,6.1,Q3 2020,396,28,Cancelado,206.08
+397,5/2/2021,7609.58,397,Asian Stir-Fry Kit,Indonesia,397,3/8/2020,58.7,Q2 2020,397,727,Completado,294.89
+398,3/12/2021,1261.6,398,Sweet Potato & Kale Hash,Brazil,398,7/30/2021,95.65,Q3 2020,398,812,Completado,173.98
+399,1/27/2021,607.74,399,Lentil Vegetable Curry,Sweden,399,7/20/2021,93.85,Q1 2020,399,101,Pendiente,121.81
+400,11/3/2021,9662.43,400,Computer Monitor Stand,China,400,12/16/2021,38.3,Q2 2020,400,740,Pendiente,92.35
+401,5/25/2021,3095.14,401,Strawberry Fruit Spread,Nicaragua,401,3/16/2021,48.46,Q2 2020,401,646,Cancelado,167.17
+402,1/2/2021,9427.13,402,Savory Quinoa Pudding,Thailand,402,11/10/2021,84.7,Q1 2020,402,136,Cancelado,405.9
+403,9/3/2021,8512.8,403,Artisan Cornbread Mix,Mexico,403,10/14/2021,14.26,Q1 2020,403,959,Pendiente,333.11
+404,1/22/2021,4420.24,404,Instant Camera,North Korea,404,10/3/2021,72.57,Q1 2020,404,833,Completado,96.1
+405,3/14/2021,6762.8,405,Mini Pretzels,Indonesia,405,1/26/2021,25.99,Q3 2020,405,450,Pendiente,244.79
+406,7/29/2021,53.14,406,Black Bean Salsa,United States,406,12/12/2020,16.15,Q1 2020,406,284,Pendiente,421.93
+407,12/13/2021,7350.32,407,Wireless Smart Plug,Portugal,407,8/5/2021,97.83,Q3 2020,407,898,Pendiente,199.01
+408,3/30/2021,9130.73,408,Collapsible Colander,China,408,7/28/2021,79.13,Q1 2020,408,251,Completado,148.99
+409,9/24/2021,5309.59,409,Rice Pilaf Mix,Argentina,409,3/5/2021,44.59,Q2 2020,409,69,Completado,40.34
+410,1/16/2021,7588.18,410,Rustic Italian Breads,Mexico,410,5/14/2020,27.08,Q1 2020,410,286,Completado,134.87
+411,10/21/2021,4299.34,411,Grapes (red),Canada,411,12/14/2021,37.11,Q2 2020,411,524,Completado,5.24
+412,11/4/2021,1434.89,412,Thai Peanut Dressing,Colombia,412,8/9/2021,60.21,Q3 2020,412,250,Cancelado,332.48
+413,10/13/2021,3684.65,413,Coffee Maker,Mexico,413,7/20/2021,11.54,Q2 2020,413,211,Completado,294.36
+414,3/26/2021,6881.36,414,Laundry Detergent,Morocco,414,1/19/2020,64.69,Q2 2020,414,89,Cancelado,31.3
+415,2/7/2021,5861.2,415,Non-Stick Baking Sheets,China,415,3/4/2021,8.38,Q1 2020,415,445,Completado,7.58
+416,8/29/2021,9057.05,416,Couscous,China,416,12/24/2021,13.02,Q1 2020,416,589,Completado,39.45
+417,11/25/2021,9503.62,417,Oven-Baked Sweet Potato Fries,China,417,12/9/2021,50.42,Q2 2020,417,904,Pendiente,257.33
+418,5/28/2021,2801.84,418,Spicy Garlic Edamame,Venezuela,418,7/8/2021,67.35,Q2 2020,418,695,Completado,447.71
+419,10/19/2021,2988.22,419,Almond Flour,Ireland,419,7/7/2021,75.77,Q3 2020,419,909,Cancelado,16.73
+420,4/18/2021,7300.05,420,Tahini,Indonesia,420,3/24/2021,61.86,Q1 2020,420,412,Pendiente,366.75
+421,7/7/2021,609.09,421,Zucchini Noodle Pasta,Denmark,421,1/13/2020,97.73,Q3 2020,421,502,Cancelado,352.83
+422,9/12/2021,8898.58,422,Chicken Broth,Indonesia,422,11/20/2021,2.21,Q3 2020,422,199,Pendiente,411.26
+423,3/18/2021,2876.45,423,Fettuccine Alfredo Dinner Kit,Zambia,423,12/30/2020,93.91,Q3 2020,423,227,Completado,199.07
+424,10/11/2021,7172.22,424,Coconut Granola,China,424,9/20/2021,39.56,Q1 2020,424,358,Pendiente,241.34
+425,11/29/2021,5188.68,425,LED Disco Ball Light,Kazakhstan,425,7/27/2021,87.11,Q1 2020,425,234,Completado,95.49
+426,1/14/2021,6487.13,426,Coconut Curry Lentil Soup,South Korea,426,9/22/2021,86.79,Q1 2020,426,768,Pendiente,198.61
+427,8/15/2021,768.15,427,Nut Butter Cups,Palestinian Territory,427,10/23/2020,39.58,Q3 2020,427,64,Pendiente,337.42
+428,7/12/2021,6971.54,428,Chocolate Avocado Pudding,Argentina,428,5/12/2020,60.48,Q3 2020,428,166,Cancelado,430.71
+429,11/18/2021,9741.66,429,Pet Waterer with Filtration,Portugal,429,3/9/2021,14.46,Q2 2020,429,759,Cancelado,226.23
+430,6/7/2021,1147.19,430,Scented Candle Set,Mexico,430,7/18/2020,93.38,Q3 2020,430,117,Pendiente,329.05
+431,1/24/2021,2993.34,431,Smartphone UV Sanitizer,Belize,431,10/1/2020,25.11,Q2 2020,431,285,Completado,260.15
+432,4/13/2021,5897.35,432,Chocolate Dipped Fruit,Indonesia,432,8/22/2021,19.65,Q1 2020,432,802,Completado,37.76
+433,10/4/2021,3835.55,433,Peach Halves (canned),Russia,433,4/5/2020,62.13,Q1 2020,433,436,Cancelado,469.12
+434,11/2/2021,7407.72,434,Smart LED Light Strip,Ireland,434,10/21/2021,51.14,Q1 2020,434,464,Completado,369.22
+435,9/8/2021,8630.29,435,Maple Bacon Jerky,Ireland,435,5/19/2020,18.56,Q3 2020,435,264,Completado,479.65
+436,6/22/2021,1721.75,436,Balsamic Glazed Brussels Sprouts,Philippines,436,5/15/2020,40.04,Q3 2020,436,357,Pendiente,234.17
+437,5/27/2021,8600.09,437,Rechargeable Laptop Battery Pack,China,437,2/14/2021,78.05,Q3 2020,437,353,Completado,189.18
+438,12/8/2021,1015.43,438,Honey Sesame Chicken Mix,Republic of the Congo,438,3/22/2021,49.39,Q3 2020,438,496,Pendiente,247.69
+439,11/9/2021,7953.05,439,Window Bird Feeder,China,439,6/5/2021,11.56,Q3 2020,439,672,Completado,18.63
+440,8/7/2021,4679.49,440,Oven Thermometer,China,440,3/29/2021,18.33,Q3 2020,440,396,Pendiente,385.76
+441,10/6/2021,3802.69,441,Children's Science Experiment Lab Kit,China,441,3/9/2020,31.3,Q2 2020,441,356,Cancelado,361.62
+442,2/25/2021,3765.42,442,Portable Pet Stroller,China,442,1/12/2021,14.48,Q3 2020,442,891,Completado,73.93
+443,11/11/2021,6622.15,443,Organic Ramen Noodles,Russia,443,6/1/2021,23.91,Q1 2020,443,237,Pendiente,267.4
+444,12/25/2021,9860.69,444,Denim Jacket,Sweden,444,5/16/2021,57.19,Q2 2020,444,914,Pendiente,342.81
+445,12/16/2021,8883.27,445,Gardening Gloves,Tanzania,445,9/24/2021,63.28,Q1 2020,445,577,Pendiente,112.19
+446,1/31/2021,1968.71,446,Herbed Goat Cheese,Japan,446,12/14/2020,14.77,Q3 2020,446,451,Pendiente,442.6
+447,3/30/2021,550.83,447,Silicone Baking Molds,Philippines,447,11/13/2020,84.16,Q3 2020,447,228,Cancelado,247.13
+448,1/29/2021,846.45,448,Camping Lantern,Mexico,448,1/4/2020,2.74,Q1 2020,448,348,Cancelado,173.16
+449,1/12/2021,1198.86,449,Crispy Rice Treats,China,449,7/15/2021,55.5,Q1 2020,449,380,Completado,346.98
+450,5/11/2021,969.38,450,Hot Salsa,Brazil,450,2/2/2020,0.51,Q1 2020,450,606,Completado,131.87
+451,5/25/2021,8850.35,451,Slim Fit Chinos,Thailand,451,2/13/2021,59.29,Q1 2020,451,125,Cancelado,355.37
+452,6/1/2021,3438.06,452,Thyme,Thailand,452,4/11/2021,66.98,Q2 2020,452,328,Pendiente,31.15
+453,8/17/2021,3771.26,453,Pasta Salad Kit,Indonesia,453,10/11/2020,27.25,Q3 2020,453,749,Cancelado,108.89
+454,3/19/2021,8115.54,454,Two-Tone Windbreaker,Indonesia,454,1/11/2020,75.48,Q1 2020,454,482,Pendiente,454.07
+455,7/29/2021,6566.02,455,Chocolate Chip Cliff Bars,Indonesia,455,12/15/2020,42.04,Q1 2020,455,953,Completado,174.79
+456,6/14/2021,6784.56,456,Organic Coconut Yogurt,Brazil,456,11/25/2021,88.21,Q1 2020,456,665,Cancelado,494.16
+457,12/13/2021,3263.88,457,Vegetable Stir Fry Mix,Iraq,457,10/23/2020,45.16,Q2 2020,457,557,Cancelado,5.16
+458,5/27/2021,8332.78,458,Granulated Sugar,Russia,458,2/7/2020,12.53,Q2 2020,458,825,Cancelado,148.35
+459,12/16/2021,8948.97,459,Grilled Vegetable Medley,Brazil,459,9/14/2021,20.58,Q3 2020,459,475,Completado,6.06
+460,4/28/2021,7953.82,460,Over-The-Door Shoe Organizer,Poland,460,10/24/2020,50.39,Q1 2020,460,686,Completado,254.34
+461,11/16/2021,9957.34,461,Free-Range Eggs,Israel,461,1/5/2020,11.81,Q3 2020,461,232,Pendiente,154.52
+462,5/19/2021,5750.34,462,Sliced Bell Peppers,Mexico,462,2/11/2021,9.9,Q2 2020,462,905,Pendiente,313.16
+463,9/20/2021,126.42,463,Honey Lemon Tea,Dominican Republic,463,12/15/2021,98.04,Q2 2020,463,460,Cancelado,260.37
+464,6/23/2021,8750.95,464,Roasted Garlic Pasta Sauce,China,464,8/3/2020,93.72,Q2 2020,464,713,Cancelado,266.44
+465,10/6/2021,9125.18,465,Sweet Corn,Portugal,465,4/23/2021,61.32,Q2 2020,465,627,Pendiente,281.31
+466,10/3/2021,2614.14,466,Electric Griddle,France,466,6/24/2020,45.87,Q2 2020,466,588,Completado,165.01
+467,6/13/2021,9791.67,467,Personalized Keychain,Dominican Republic,467,10/2/2021,6.71,Q1 2020,467,924,Completado,241.64
+468,12/3/2021,608.46,468,Reusable Produce Bags Set,Brazil,468,10/13/2021,15.11,Q2 2020,468,779,Cancelado,154.24
+469,11/4/2021,8333.0,469,Creamy Coleslaw Mix,Indonesia,469,10/26/2021,72.87,Q2 2020,469,315,Completado,472.25
+470,7/10/2021,7477.9,470,Chickpea Snack Mix,Nigeria,470,5/9/2021,54.16,Q3 2020,470,129,Cancelado,287.02
+471,7/8/2021,1730.79,471,Portable Hammock with Stand,China,471,8/17/2020,29.41,Q2 2020,471,103,Pendiente,24.93
+472,12/12/2021,34.3,472,Garlic Parmesan Roasted Nuts,Russia,472,6/27/2021,87.47,Q1 2020,472,948,Cancelado,33.85
+473,4/2/2021,7826.92,473,Greek Yogurt Parfait,China,473,10/7/2020,36.1,Q1 2020,473,404,Cancelado,15.17
+474,1/22/2021,4051.45,474,Electric Ice Cream Maker,Sri Lanka,474,12/23/2020,15.33,Q2 2020,474,984,Cancelado,214.74
+475,3/23/2021,6363.47,475,Sesame Oil,China,475,6/12/2021,12.11,Q2 2020,475,338,Pendiente,312.68
+476,2/9/2021,7267.26,476,Thai Peanut Noodles,China,476,11/21/2020,11.73,Q2 2020,476,441,Completado,488.77
+477,5/23/2021,9646.34,477,Chili Beans in Sauce,Argentina,477,8/7/2021,57.79,Q3 2020,477,672,Completado,166.54
+478,1/3/2021,7572.91,478,Pepperoni Pizza Rolls,Nicaragua,478,3/29/2021,91.93,Q1 2020,478,929,Pendiente,223.85
+479,12/8/2021,1533.08,479,Zucchini Noodle Pasta,China,479,6/22/2021,36.24,Q2 2020,479,601,Pendiente,139.55
+480,8/22/2021,3152.06,480,Tandoori Chicken Skewers,Netherlands,480,1/30/2020,60.75,Q3 2020,480,365,Completado,484.92
+481,8/12/2021,847.76,481,Honey,France,481,6/24/2021,46.21,Q1 2020,481,287,Pendiente,133.58
+482,1/22/2021,3614.7,482,Bock Beer Mustard,Brazil,482,9/9/2021,16.65,Q3 2020,482,889,Pendiente,89.26
+483,8/6/2021,2130.52,483,Mayonnaise,Russia,483,8/28/2020,43.35,Q2 2020,483,369,Pendiente,114.35
+484,10/5/2021,5982.47,484,Raspberry Vanilla Greek Yogurt,Indonesia,484,1/19/2021,11.58,Q3 2020,484,399,Completado,298.49
+485,7/2/2021,7073.7,485,Zucchini Noodle Pasta,China,485,1/29/2021,41.38,Q2 2020,485,806,Completado,246.98
+486,6/30/2021,4400.59,486,Adjustable Laptop Stand,China,486,8/23/2021,65.77,Q1 2020,486,571,Cancelado,259.86
+487,10/19/2021,1186.5,487,Cinnamon Sugar Donuts,Indonesia,487,11/9/2020,22.28,Q3 2020,487,987,Completado,277.39
+488,7/25/2021,9177.11,488,Maple Glazed Carrots,Russia,488,6/6/2021,80.84,Q2 2020,488,737,Cancelado,153.25
+489,8/16/2021,1928.06,489,Silicone Baking Mat Set,Malaysia,489,4/8/2020,93.8,Q3 2020,489,83,Completado,256.01
+490,5/10/2021,9159.32,490,Frozen Mixed Berries,Dominican Republic,490,4/5/2020,79.98,Q3 2020,490,827,Cancelado,23.82
+491,3/29/2021,8373.51,491,Maple Glazed Carrots,Nigeria,491,9/12/2020,22.62,Q3 2020,491,614,Cancelado,499.03
+492,3/10/2021,2779.66,492,Chocolate Almond Milk,Iran,492,2/12/2020,40.69,Q1 2020,492,732,Completado,69.5
+493,3/8/2021,2734.96,493,Sliced Cucumbers,Bosnia and Herzegovina,493,3/13/2021,44.38,Q3 2020,493,242,Cancelado,203.21
+494,1/12/2021,301.24,494,Collapsible Storage Crates,Peru,494,5/15/2021,15.55,Q2 2020,494,840,Completado,281.71
+495,2/26/2021,8742.27,495,Ultraviolet Phone Sanitizer,United States,495,11/16/2021,8.24,Q3 2020,495,670,Completado,41.27
+496,7/8/2021,1674.39,496,Organic Coconut Yogurt,China,496,10/5/2020,58.24,Q2 2020,496,271,Completado,265.88
+497,10/8/2021,6524.54,497,Air Mattress,Mexico,497,6/3/2021,61.16,Q3 2020,497,810,Pendiente,179.05
+498,5/6/2021,704.23,498,Cotton Pajama Set,Indonesia,498,1/27/2021,33.61,Q3 2020,498,109,Cancelado,143.61
+499,6/26/2021,4256.25,499,Adjustable Stand for Tablets and Smartphones,Indonesia,499,2/23/2021,81.22,Q3 2020,499,750,Cancelado,283.4
+500,1/23/2021,1448.32,500,Handmade Wooden Utensil Set,Dominican Republic,500,7/22/2021,91.42,Q2 2020,500,879,Completado,163.15
+501,2/28/2021,6219.25,501,Trail Mix (Deluxe),Syria,501,7/31/2021,35.71,Q2 2020,501,742,Pendiente,265.63
+502,2/5/2021,2433.04,502,Cotton Tote Bag Set,Bangladesh,502,2/23/2020,5.69,Q2 2020,502,924,Completado,421.4
+503,5/9/2021,5133.93,503,Infrared Space Heater,Luxembourg,503,4/26/2020,97.82,Q1 2020,503,197,Completado,53.38
+504,10/4/2021,2138.66,504,Ranch Dressing,China,504,2/26/2021,18.87,Q3 2020,504,538,Cancelado,241.14
+505,2/16/2021,9208.88,505,Wrap Jumpsuit,Indonesia,505,5/16/2021,77.4,Q1 2020,505,683,Pendiente,245.52
+506,1/25/2021,3764.91,506,Handmade Wooden Utensil Set,Ukraine,506,1/5/2020,39.83,Q1 2020,506,127,Cancelado,95.9
+507,1/25/2021,2695.92,507,Home Delivery Food Journal,Bosnia and Herzegovina,507,10/24/2021,22.06,Q2 2020,507,646,Completado,401.36
+508,8/1/2021,9777.77,508,Lemon Basil Pasta Sauce,Guatemala,508,3/22/2020,34.6,Q2 2020,508,746,Cancelado,89.67
+509,8/27/2021,4109.45,509,Travel Pillow with Memory Foam,Macedonia,509,11/1/2020,57.72,Q1 2020,509,428,Cancelado,10.91
+510,6/26/2021,4208.34,510,Faux Leather Leggings,France,510,5/13/2021,36.2,Q3 2020,510,150,Cancelado,357.67
+511,12/29/2021,7458.94,511,Portable Speakers,Peru,511,8/18/2021,86.58,Q2 2020,511,395,Completado,97.95
+512,7/26/2021,9711.65,512,Herb Seasoned Rice,Dominican Republic,512,8/5/2021,46.9,Q1 2020,512,584,Cancelado,225.32
+513,10/7/2021,6219.52,513,Organic Baby Spinach,China,513,11/16/2020,1.57,Q3 2020,513,944,Pendiente,185.86
+514,1/15/2021,6995.07,514,Digital Bullet Journal,China,514,3/21/2020,52.21,Q1 2020,514,309,Pendiente,59.82
+515,9/26/2021,3741.12,515,Whole Grain Hamburger Buns,Ukraine,515,6/30/2020,14.47,Q3 2020,515,847,Pendiente,281.93
+516,10/17/2021,1602.42,516,Habanero Hot Sauce,Russia,516,12/14/2021,85.7,Q2 2020,516,66,Pendiente,473.62
+517,1/2/2021,8822.27,517,Children's Educational Puzzle,Serbia,517,10/14/2020,91.09,Q3 2020,517,126,Cancelado,380.35
+518,1/14/2021,9815.45,518,Andouille Sausage,Russia,518,8/27/2021,94.19,Q3 2020,518,962,Pendiente,242.19
+519,5/25/2021,6112.94,519,Maple Oatmeal,Canada,519,6/7/2021,99.4,Q3 2020,519,659,Pendiente,290.58
+520,3/25/2021,1081.02,520,Maple Bacon Potato Chips,Argentina,520,9/4/2020,79.78,Q1 2020,520,995,Pendiente,493.53
+521,11/12/2021,9202.54,521,Portable Pet Water Bottle,China,521,12/22/2021,82.41,Q2 2020,521,563,Completado,158.93
+522,10/25/2021,5440.22,522,Coconut Cashew Yogurt,Philippines,522,1/14/2020,91.84,Q1 2020,522,996,Cancelado,457.91
+523,9/15/2021,5739.67,523,Self-Watering Planter,China,523,3/13/2020,68.46,Q1 2020,523,502,Completado,199.99
+524,7/29/2021,6075.05,524,Pasta Maker,Azerbaijan,524,3/5/2021,32.24,Q1 2020,524,491,Pendiente,13.53
+525,8/9/2021,5716.61,525,Coffee Grinder,Colombia,525,2/11/2020,81.76,Q3 2020,525,438,Pendiente,395.88
+526,3/5/2021,899.65,526,Self-Adhesive Wallpaper,Philippines,526,5/14/2021,23.86,Q2 2020,526,433,Cancelado,146.13
+527,5/29/2021,4399.45,527,Multicolored LED Strip Lights,Yemen,527,1/5/2021,54.89,Q3 2020,527,914,Cancelado,134.47
+528,5/11/2021,9441.3,528,Electric Hot Water Dispenser,China,528,4/11/2020,44.77,Q1 2020,528,732,Pendiente,115.05
+529,12/30/2021,8282.6,529,Induction Cooktop,Czech Republic,529,1/2/2020,51.41,Q2 2020,529,924,Pendiente,250.05
+530,5/11/2021,7455.27,530,Fried Rice,Japan,530,11/1/2021,66.15,Q1 2020,530,955,Completado,280.43
+531,8/24/2021,4747.04,531,Tomato Paste,Russia,531,9/22/2020,54.88,Q3 2020,531,266,Completado,122.02
+532,8/21/2021,7427.76,532,Corn Tortillas,Honduras,532,2/6/2021,94.14,Q3 2020,532,729,Pendiente,399.58
+533,9/23/2021,2170.39,533,Fitness Resistance Bands Set,Indonesia,533,6/6/2021,40.07,Q3 2020,533,306,Cancelado,283.13
+534,7/1/2021,4113.34,534,Herbed Goat Cheese,Serbia,534,8/1/2021,55.63,Q1 2020,534,432,Pendiente,185.81
+535,1/4/2021,4396.76,535,Pest Control Traps,Philippines,535,10/18/2020,5.18,Q3 2020,535,920,Cancelado,418.99
+536,10/25/2021,8541.68,536,Cauliflower Rice Stir-Fry,Brazil,536,5/8/2021,55.46,Q2 2020,536,858,Pendiente,173.15
+537,4/28/2021,8627.04,537,Belted Trench Coat,Chile,537,2/18/2021,82.17,Q1 2020,537,786,Pendiente,183.16
+538,10/3/2021,8587.26,538,Steak Seasoning Rub,France,538,11/3/2020,77.5,Q2 2020,538,550,Cancelado,78.8
+539,3/30/2021,1695.8,539,Adjustable Skipping Rope,Portugal,539,9/18/2021,17.36,Q2 2020,539,947,Pendiente,71.46
+540,2/16/2021,9827.24,540,Honey Mustard Dip,Malaysia,540,3/1/2021,22.11,Q3 2020,540,893,Pendiente,442.4
+541,7/8/2021,4820.6,541,Insulated Lunch Box,Russia,541,10/6/2021,81.19,Q3 2020,541,649,Pendiente,27.25
+542,5/8/2021,5355.25,542,Rechargeable Battery Organizer,Czech Republic,542,7/20/2021,73.31,Q2 2020,542,713,Completado,285.17
+543,8/13/2021,7293.68,543,Chickpea Snack Mix,France,543,4/30/2020,84.29,Q1 2020,543,222,Completado,129.2
+544,6/17/2021,7867.61,544,Children's Backpack,China,544,1/26/2021,92.42,Q1 2020,544,182,Cancelado,379.3
+545,10/21/2021,3071.14,545,Smart Plant Monitor,Kazakhstan,545,10/27/2021,79.36,Q1 2020,545,652,Completado,429.4
+546,3/9/2021,2897.8,546,Non-Stick Baking Sheets,Philippines,546,4/11/2020,27.77,Q3 2020,546,694,Cancelado,293.6
+547,8/2/2021,5348.72,547,Adjustable Dumbbells,Ghana,547,5/1/2020,32.4,Q3 2020,547,802,Completado,359.64
+548,1/10/2021,3757.21,548,Electric Can Opener,Cuba,548,5/12/2020,80.27,Q2 2020,548,524,Cancelado,282.32
+549,10/29/2021,4743.7,549,Herbed Goat Cheese,Indonesia,549,2/8/2021,86.77,Q2 2020,549,149,Completado,252.89
+550,8/13/2021,9375.86,550,Electric Air Pump,Russia,550,2/27/2020,22.52,Q2 2020,550,37,Cancelado,188.05
+551,12/16/2021,1887.88,551,Snack Container Set,Armenia,551,3/26/2021,24.68,Q1 2020,551,779,Cancelado,73.53
+552,4/3/2021,6442.26,552,Cranberry Almond Cookies,United Kingdom,552,2/8/2021,86.63,Q2 2020,552,949,Cancelado,38.13
+553,7/23/2021,7294.43,553,Weighted Blanket for Adults,Armenia,553,10/31/2020,5.08,Q1 2020,553,686,Cancelado,445.48
+554,6/17/2021,7367.96,554,LED Flashing Pet Collar,Ukraine,554,1/18/2021,15.38,Q1 2020,554,688,Pendiente,447.45
+555,2/5/2021,1533.87,555,Wooden Children's Play Kitchen,Belarus,555,1/12/2020,70.06,Q1 2020,555,533,Completado,407.06
+556,3/3/2021,6596.47,556,Wall-Mounted Spice Rack,Sweden,556,8/13/2020,36.74,Q2 2020,556,443,Pendiente,181.11
+557,5/6/2021,5337.83,557,Training Soccer Ball,China,557,9/8/2021,19.76,Q1 2020,557,695,Pendiente,149.63
+558,8/8/2021,5453.26,558,Stick Vacuums Cleaner,Portugal,558,6/10/2020,91.45,Q1 2020,558,68,Pendiente,370.83
+559,2/16/2021,5494.44,559,Herb Drying Rack,Poland,559,1/14/2021,3.78,Q3 2020,559,659,Cancelado,325.65
+560,2/14/2021,290.05,560,Gardening Gloves with Claws,United Kingdom,560,7/17/2020,53.86,Q1 2020,560,646,Pendiente,173.37
+561,8/15/2021,7630.32,561,Reusable Coffee Filter,Honduras,561,9/28/2020,97.12,Q3 2020,561,393,Pendiente,288.48
+562,4/30/2021,4844.34,562,Essential Oils Diffuser Necklace,Argentina,562,11/23/2020,33.82,Q3 2020,562,639,Cancelado,405.33
+563,12/19/2021,2529.76,563,Smoked Salmon,Albania,563,1/6/2021,79.63,Q3 2020,563,469,Completado,411.34
+564,5/28/2021,770.95,564,Lemon Garlic Shrimp,Indonesia,564,5/14/2020,39.08,Q3 2020,564,7,Cancelado,178.52
+565,5/17/2021,1454.07,565,Beard Grooming Kit,Bangladesh,565,9/26/2020,45.77,Q1 2020,565,275,Completado,349.44
+566,7/17/2021,4746.21,566,Sesame Oil,China,566,6/2/2020,51.93,Q2 2020,566,373,Completado,193.14
+567,8/3/2021,9675.86,567,Honey Butter Popcorn,China,567,11/21/2020,46.73,Q1 2020,567,843,Cancelado,291.41
+568,1/7/2021,639.75,568,Sliced Olives,Greece,568,10/29/2020,33.48,Q1 2020,568,877,Cancelado,47.8
+569,6/3/2021,3735.63,569,Wild Rice & Quinoa Mix,Russia,569,6/17/2020,31.16,Q2 2020,569,718,Pendiente,304.57
+570,5/25/2021,5491.93,570,Pesto Genovese,Mexico,570,8/3/2021,1.76,Q2 2020,570,141,Completado,238.51
+571,3/1/2021,7104.53,571,Lasagna Noodles,Indonesia,571,12/11/2021,37.97,Q3 2020,571,8,Pendiente,426.06
+572,6/11/2021,799.18,572,Electric Food Steamer,Canada,572,7/20/2021,75.04,Q1 2020,572,456,Cancelado,417.48
+573,6/12/2021,8813.82,573,Almond Butter Cups,China,573,2/9/2021,87.96,Q3 2020,573,121,Completado,222.62
+574,11/18/2021,1509.26,574,LED Desk Lamp with USB Charging,Peru,574,7/29/2021,1.39,Q2 2020,574,946,Completado,491.03
+575,9/22/2021,9757.45,575,Phone Case,China,575,4/25/2020,19.94,Q3 2020,575,205,Pendiente,300.59
+576,3/11/2021,4824.33,576,Digital Drawing Tablet,China,576,10/15/2021,48.81,Q1 2020,576,406,Pendiente,11.09
+577,3/23/2021,4379.84,577,Teriyaki Stir-Fry Sauce,Ukraine,577,9/17/2020,29.92,Q2 2020,577,367,Pendiente,191.79
+578,6/22/2021,7509.86,578,Frozen Vegetarian Pizza,Aland Islands,578,8/1/2021,79.69,Q2 2020,578,779,Cancelado,487.85
+579,12/23/2021,5974.57,579,Classic Minestrone Soup,Nigeria,579,9/1/2021,88.73,Q1 2020,579,878,Completado,72.17
+580,12/2/2021,4934.4,580,Pumpkin Ice Cream,Philippines,580,8/15/2020,48.49,Q2 2020,580,404,Pendiente,413.76
+581,8/29/2021,6059.63,581,Cotton Basic Tank,United States,581,2/2/2020,19.59,Q3 2020,581,826,Cancelado,415.07
+582,1/14/2021,1903.31,582,Vegetarian Stuffed Peppers,Philippines,582,8/4/2021,34.98,Q2 2020,582,2,Pendiente,327.33
+583,8/31/2021,6255.1,583,Travel Pillow with Memory Foam,United Kingdom,583,2/27/2021,5.27,Q3 2020,583,414,Completado,129.9
+584,10/31/2021,6425.52,584,Customizable Wall Calendar,Indonesia,584,10/31/2021,15.71,Q1 2020,584,894,Pendiente,9.22
+585,1/23/2021,3759.0,585,Chocolate Syrup,Sweden,585,9/21/2020,80.52,Q1 2020,585,896,Pendiente,202.59
+586,2/28/2021,3326.23,586,Smartphone Tripod with Remote,Cuba,586,6/7/2020,49.11,Q1 2020,586,112,Cancelado,82.95
+587,6/21/2021,1837.35,587,Pumpkin Spice Cookies,Ukraine,587,1/7/2020,75.1,Q3 2020,587,255,Pendiente,313.09
+588,8/15/2021,9143.17,588,Thai Green Curry Paste,China,588,6/19/2020,62.49,Q1 2020,588,737,Pendiente,108.76
+589,5/25/2021,5740.52,589,Pet Reflective Vest,Taiwan,589,2/26/2021,28.92,Q1 2020,589,454,Cancelado,467.67
+590,12/7/2021,2626.63,590,Dill Pickle Chips,France,590,4/26/2020,31.42,Q3 2020,590,70,Cancelado,112.2
+591,1/20/2021,6679.68,591,Pet Nail Clipper,China,591,10/6/2020,80.72,Q2 2020,591,742,Pendiente,185.8
+592,1/13/2021,2032.02,592,Mango Chilli Sauce,Angola,592,4/10/2020,30.7,Q2 2020,592,234,Completado,190.1
+593,3/1/2021,3564.18,593,Lentil Vegetable Stew,China,593,3/21/2021,57.44,Q2 2020,593,682,Pendiente,293.86
+594,5/9/2021,7904.63,594,Pet Hair Removal Roller,Syria,594,9/17/2021,5.18,Q3 2020,594,903,Pendiente,470.54
+595,8/5/2021,8523.88,595,Motorcycle Phone Mount,Poland,595,1/16/2020,67.94,Q2 2020,595,293,Cancelado,129.32
+596,4/14/2021,4057.83,596,Belted Trench Coat,Philippines,596,9/11/2021,78.5,Q2 2020,596,313,Cancelado,153.58
+597,10/4/2021,8806.66,597,Buffalo Cauliflower Bites,China,597,6/16/2021,59.29,Q3 2020,597,210,Cancelado,227.72
+598,5/7/2021,9001.0,598,Beard Grooming Kit,Laos,598,11/30/2021,79.39,Q1 2020,598,64,Cancelado,212.25
+599,6/28/2021,4472.79,599,LED Desk Lamp with USB Charging Port,Cyprus,599,12/10/2020,8.94,Q2 2020,599,735,Cancelado,37.04
+600,10/22/2021,3558.38,600,Weighted Jump Rope with Counter,Argentina,600,5/27/2020,54.99,Q2 2020,600,233,Cancelado,20.05
+601,9/2/2021,6284.92,601,Gardening Tools Set,Argentina,601,7/1/2021,28.68,Q2 2020,601,835,Completado,487.41
+602,5/31/2021,4009.57,602,Waffle Maker,Indonesia,602,4/1/2020,26.31,Q2 2020,602,748,Cancelado,394.34
+603,10/13/2021,6291.7,603,Basic V-Neck T-Shirt,Indonesia,603,12/19/2021,24.32,Q3 2020,603,819,Completado,397.72
+604,8/21/2021,6671.52,604,Butternut Squash Soup,Canada,604,7/3/2021,62.29,Q1 2020,604,237,Pendiente,27.46
+605,2/21/2021,6139.67,605,Sweet Corn Fritters,China,605,2/18/2020,93.61,Q1 2020,605,745,Completado,474.24
+606,8/13/2021,5842.96,606,Wireless HDMI Receiver,Iran,606,9/25/2020,65.12,Q3 2020,606,513,Pendiente,451.52
+607,12/18/2021,9072.53,607,Maple Pecan Pancake Mix,Philippines,607,3/1/2020,6.96,Q2 2020,607,118,Pendiente,354.31
+608,1/28/2021,8616.63,608,Dog Collar,South Korea,608,12/30/2021,16.73,Q1 2020,608,804,Completado,182.46
+609,1/13/2021,5215.55,609,Wireless Earbuds Case,Finland,609,6/27/2021,16.78,Q2 2020,609,276,Pendiente,58.54
+610,1/1/2021,4003.22,610,Teriyaki Sauce,China,610,10/29/2020,79.04,Q2 2020,610,602,Cancelado,200.95
+611,10/3/2021,722.46,611,Fitness Tracker with Heart Rate Monitor,Portugal,611,2/11/2020,88.85,Q2 2020,611,760,Completado,59.54
+612,1/27/2021,6298.01,612,Surimi Crab Sticks,Indonesia,612,9/28/2020,82.7,Q1 2020,612,69,Pendiente,171.02
+613,11/30/2021,1703.59,613,Cinnamon Apple Sauce,Brazil,613,11/8/2020,49.22,Q3 2020,613,513,Cancelado,448.38
+614,12/4/2021,2198.56,614,Buffalo Chicken Dip,Peru,614,3/27/2020,6.15,Q3 2020,614,159,Cancelado,380.88
+615,10/19/2021,1620.74,615,Travel Jewelry Case,China,615,8/8/2021,55.82,Q2 2020,615,296,Completado,51.56
+616,6/6/2021,4860.36,616,Pasta (Fusilli),Greece,616,2/7/2020,40.45,Q1 2020,616,738,Cancelado,236.81
+617,4/19/2021,8472.73,617,Sesame Seeds,Tanzania,617,6/22/2020,71.53,Q2 2020,617,285,Cancelado,442.74
+618,7/26/2021,9732.15,618,Multi-Layer Food Steamer,Russia,618,5/26/2020,23.16,Q2 2020,618,648,Completado,191.17
+619,1/27/2021,9930.29,619,Yoga Strap,China,619,11/24/2020,64.64,Q3 2020,619,616,Cancelado,60.65
+620,2/7/2021,3734.94,620,Miso Dressing,Malaysia,620,8/19/2021,97.7,Q3 2020,620,706,Pendiente,39.01
+621,8/7/2021,3685.26,621,Cinnamon Sugar Tortilla Chips,Poland,621,11/3/2020,16.87,Q2 2020,621,768,Completado,120.27
+622,5/30/2021,6940.8,622,Honey Mustard Sauce,Indonesia,622,10/21/2021,19.81,Q1 2020,622,142,Cancelado,495.41
+623,1/8/2021,1198.39,623,Self-Watering Planters,Iran,623,4/29/2021,16.32,Q2 2020,623,514,Completado,254.53
+624,11/13/2021,9760.53,624,Tofu,China,624,2/12/2020,96.5,Q2 2020,624,86,Completado,292.85
+625,6/1/2021,2989.58,625,Maple Glazed Carrots,Cuba,625,7/28/2020,42.31,Q3 2020,625,299,Completado,341.45
+626,1/23/2021,6948.41,626,Coffee Capsule Dispenser,Tanzania,626,4/21/2020,79.75,Q1 2020,626,458,Completado,152.28
+627,10/21/2021,3549.17,627,Egg Noodles,France,627,9/10/2021,94.47,Q1 2020,627,4,Completado,65.99
+628,7/1/2021,8522.59,628,Spaghetti and Meatball Dinner Kit,Poland,628,6/3/2020,44.41,Q1 2020,628,975,Pendiente,282.74
+629,9/17/2021,9391.23,629,Honey BBQ Ribs,Indonesia,629,6/29/2020,16.42,Q2 2020,629,22,Cancelado,391.61
+630,2/16/2021,2821.6,630,Peach Halves (canned),Malaysia,630,8/4/2020,16.62,Q2 2020,630,662,Completado,288.65
+631,4/18/2021,9067.76,631,Roasted Sweet Corn,China,631,4/26/2020,9.6,Q2 2020,631,883,Pendiente,164.0
+632,11/23/2021,5260.28,632,Lemon Dill Salmon,China,632,10/11/2021,21.42,Q1 2020,632,764,Completado,397.56
+633,9/12/2021,5831.55,633,Coconut Oil Spray,Ukraine,633,3/29/2021,17.14,Q1 2020,633,854,Pendiente,5.07
+634,12/10/2021,3283.18,634,Ceramic Planter Set,Japan,634,8/6/2020,22.8,Q2 2020,634,450,Pendiente,79.52
+635,3/3/2021,1219.12,635,Pet Safety Belt for Car,China,635,7/30/2021,38.92,Q2 2020,635,530,Completado,379.97
+636,8/30/2021,6671.83,636,Insulated Coffee Mug,France,636,9/18/2021,9.28,Q2 2020,636,731,Cancelado,479.52
+637,3/25/2021,5563.92,637,Oven Mitts,Indonesia,637,10/4/2020,65.42,Q1 2020,637,562,Pendiente,489.85
+638,7/21/2021,9136.67,638,Insulated Sport Tumbler,Portugal,638,1/11/2021,24.42,Q2 2020,638,46,Completado,47.0
+639,10/14/2021,6407.62,639,Pet Water Fountain with Filtration,Thailand,639,4/10/2020,99.98,Q1 2020,639,459,Completado,477.88
+640,10/13/2021,6371.39,640,Almond Butter Crunch Bar,Indonesia,640,7/23/2020,59.16,Q2 2020,640,172,Cancelado,342.65
+641,6/30/2021,9102.26,641,Pasta Primavera,United Kingdom,641,6/12/2021,1.42,Q3 2020,641,111,Completado,114.2
+642,10/5/2021,7627.66,642,Coloring Books for Adults,Belgium,642,4/4/2021,69.11,Q1 2020,642,928,Completado,380.4
+643,2/13/2021,4807.06,643,Rustic Wooden Picture Frame,France,643,2/6/2020,70.16,Q3 2020,643,697,Completado,358.49
+644,10/10/2021,453.91,644,Bluetooth Shower Speaker,Poland,644,8/25/2021,71.77,Q2 2020,644,148,Completado,314.5
+645,10/4/2021,6581.31,645,Portable Grill Cover,China,645,9/2/2021,41.07,Q1 2020,645,317,Pendiente,109.0
+646,2/18/2021,3416.96,646,LED Desk Lamp,Indonesia,646,12/4/2020,44.74,Q3 2020,646,885,Completado,347.54
+647,4/13/2021,2106.39,647,Buffalo Chicken Wraps,Russia,647,1/13/2021,80.73,Q1 2020,647,301,Cancelado,448.08
+648,2/24/2021,2643.66,648,Pumpkin Spice Cookies,France,648,3/1/2021,68.12,Q2 2020,648,613,Completado,145.07
+649,1/27/2021,912.95,649,Kid's Fruit Snacks,Ethiopia,649,3/9/2021,78.52,Q1 2020,649,685,Pendiente,11.34
+650,8/12/2021,5910.06,650,Fitness Foam Roller,China,650,1/6/2020,67.26,Q2 2020,650,592,Completado,346.22
+651,12/17/2021,4526.65,651,BBQ Jackfruit,Russia,651,1/19/2020,11.51,Q2 2020,651,892,Completado,236.86
+652,8/27/2021,7603.7,652,Spinach and Feta Stuffed Chicken Breast,Poland,652,6/30/2021,70.84,Q2 2020,652,585,Completado,485.93
+653,9/3/2021,7467.95,653,Rechargeable Electric Toothbrush,Indonesia,653,5/26/2021,3.53,Q1 2020,653,953,Completado,268.58
+654,7/21/2021,1451.89,654,Sweet Pea Hummus,Portugal,654,8/1/2020,25.31,Q1 2020,654,652,Cancelado,109.19
+655,1/9/2021,7319.06,655,Adjustable Dumbbells,France,655,6/6/2021,61.6,Q3 2020,655,963,Pendiente,68.67
+656,5/11/2021,91.09,656,Compact Hair Dryer,Argentina,656,3/10/2021,56.44,Q1 2020,656,714,Completado,427.18
+657,10/18/2021,4685.22,657,Hiking Boots,Indonesia,657,4/6/2020,11.62,Q1 2020,657,703,Completado,381.82
+658,9/22/2021,4339.6,658,Turmeric Ginger Tea,Mongolia,658,9/24/2021,16.59,Q3 2020,658,174,Cancelado,246.03
+659,9/20/2021,5606.9,659,Kettle BBQ Grill,China,659,8/24/2020,78.52,Q2 2020,659,265,Pendiente,330.65
+660,6/6/2021,3729.58,660,Maple Cinnamon Granola Bars,Poland,660,5/29/2020,77.17,Q3 2020,660,592,Pendiente,25.69
+661,4/7/2021,5289.64,661,Tactical Backpack,Netherlands,661,9/17/2020,42.45,Q2 2020,661,458,Pendiente,209.29
+662,12/17/2021,232.13,662,Frozen Broccoli,Indonesia,662,7/26/2021,44.3,Q2 2020,662,62,Cancelado,299.67
+663,4/4/2021,878.66,663,Roasted Garlic Mashed Potatoes,China,663,5/5/2021,85.29,Q3 2020,663,591,Pendiente,165.03
+664,7/27/2021,3526.94,664,Pet Grooming Kit,Hungary,664,4/3/2021,87.32,Q3 2020,664,221,Pendiente,10.62
+665,5/17/2021,8416.32,665,Chili Lime Corn Chips,Philippines,665,11/23/2020,54.45,Q1 2020,665,830,Cancelado,246.31
+666,9/7/2021,6525.4,666,Heavy Duty Gardening Tool Set,United States,666,12/29/2020,25.33,Q1 2020,666,455,Pendiente,389.82
+667,11/21/2021,3928.5,667,Mesh Sports Leggings,Philippines,667,4/13/2020,65.67,Q3 2020,667,685,Cancelado,117.45
+668,1/2/2021,4119.15,668,Apple Cinnamon Oatmeal,Cuba,668,10/23/2020,78.47,Q2 2020,668,761,Pendiente,15.45
+669,10/11/2021,2621.03,669,Caraway Rye Bread,Indonesia,669,12/28/2021,79.33,Q2 2020,669,759,Pendiente,401.3
+670,11/29/2021,6190.85,670,Smart Light Switch,Sierra Leone,670,10/16/2021,42.63,Q3 2020,670,677,Completado,448.11
+671,7/6/2021,4098.96,671,Rice Pilaf Mix,France,671,9/10/2020,88.47,Q1 2020,671,12,Completado,146.8
+672,4/15/2021,6685.96,672,Tomato Sauce,South Korea,672,1/19/2021,34.2,Q1 2020,672,318,Cancelado,221.83
+673,10/8/2021,7896.45,673,Children's Musical Instrument Set,Russia,673,5/15/2021,7.8,Q3 2020,673,273,Completado,257.63
+674,2/26/2021,9880.13,674,Eco-Friendly Yoga Mat,China,674,10/13/2020,21.97,Q3 2020,674,363,Pendiente,202.01
+675,11/15/2021,8272.94,675,Chicken Breasts,China,675,12/4/2020,30.89,Q2 2020,675,220,Completado,446.69
+676,4/12/2021,8436.77,676,Ricotta Cheese,France,676,10/16/2020,51.72,Q2 2020,676,350,Completado,338.03
+677,12/14/2021,5713.39,677,Sliced Olives,Japan,677,9/19/2020,92.39,Q2 2020,677,191,Cancelado,254.84
+678,10/16/2021,3931.07,678,Low-Fat Yogurt,Mexico,678,6/8/2021,40.89,Q2 2020,678,834,Cancelado,263.03
+679,2/25/2021,9305.17,679,Digital Photo Frame,Brazil,679,6/7/2021,75.15,Q2 2020,679,969,Cancelado,474.35
+680,1/29/2021,3173.82,680,Over-the-Door Hooks,Portugal,680,9/23/2020,27.73,Q3 2020,680,684,Completado,350.22
+681,9/20/2021,6060.4,681,Luxury Yoga Mat,Kosovo,681,11/2/2021,30.44,Q2 2020,681,598,Pendiente,409.78
+682,6/30/2021,6238.05,682,Buffalo Style Cauliflower Bites,Greece,682,3/5/2020,13.53,Q3 2020,682,316,Cancelado,116.52
+683,5/21/2021,8516.24,683,Faux Fur Throw Blanket,Lithuania,683,5/29/2021,89.76,Q1 2020,683,266,Completado,97.78
+684,9/1/2021,2998.15,684,Herbal Tea Sampler Box,Peru,684,6/10/2021,97.75,Q1 2020,684,118,Pendiente,398.43
+685,2/16/2021,115.05,685,Decorative Wall Tapestry,Philippines,685,1/24/2020,49.33,Q3 2020,685,420,Cancelado,158.95
+686,4/26/2021,7831.07,686,Baked Potato Chips,Vietnam,686,6/15/2020,45.2,Q3 2020,686,646,Pendiente,295.85
+687,12/23/2021,5174.61,687,Camping Tarp,Afghanistan,687,5/19/2021,55.85,Q2 2020,687,684,Completado,265.08
+688,5/27/2021,6382.87,688,Chocolate Mint Protein Shake,Portugal,688,9/19/2020,78.03,Q1 2020,688,156,Pendiente,320.11
+689,8/21/2021,3511.93,689,Roasted Garlic Pasta Sauce,Indonesia,689,5/22/2020,72.13,Q1 2020,689,703,Completado,432.5
+690,10/18/2021,934.34,690,Italian Breadsticks,Mongolia,690,11/11/2021,61.53,Q3 2020,690,6,Pendiente,443.46
+691,5/24/2021,517.76,691,Plant-Based Meal Prep Containers,Ukraine,691,11/18/2020,65.7,Q3 2020,691,722,Pendiente,184.01
+692,9/10/2021,8633.8,692,Air Fryer Oven,Afghanistan,692,3/27/2020,64.66,Q1 2020,692,648,Completado,43.5
+693,7/10/2021,9308.13,693,Organic Whole Grain Oats,Sweden,693,3/7/2020,9.26,Q3 2020,693,122,Cancelado,135.93
+694,3/4/2021,1880.69,694,LED Strip Lights,Albania,694,8/16/2021,75.18,Q1 2020,694,683,Completado,476.62
+695,6/24/2021,2693.85,695,Car Seat Organizer,China,695,6/6/2020,65.07,Q3 2020,695,638,Cancelado,6.33
+696,9/1/2021,1312.68,696,Pet Hair Remover,China,696,7/28/2021,61.32,Q1 2020,696,483,Cancelado,190.58
+697,4/8/2021,3519.08,697,Portable Pet Bathing Tool,Philippines,697,6/9/2020,83.96,Q3 2020,697,218,Cancelado,144.71
+698,10/18/2021,6212.21,698,Organic Green Apples,Serbia,698,11/13/2021,94.47,Q3 2020,698,126,Cancelado,469.19
+699,10/9/2021,2575.84,699,Veggie Chips Variety Pack,China,699,3/20/2021,30.1,Q3 2020,699,11,Cancelado,41.5
+700,6/2/2021,6853.74,700,Samoas Cookie Mix,Kenya,700,3/6/2020,28.57,Q3 2020,700,114,Pendiente,53.39
+701,1/21/2021,2235.71,701,Oven-Baked Sweet Potato Fries,South Africa,701,3/22/2021,82.17,Q2 2020,701,442,Completado,469.66
+702,2/13/2021,7778.6,702,Men's Waterproof Hiking Boots,Indonesia,702,4/10/2021,63.76,Q3 2020,702,175,Completado,308.18
+703,2/24/2021,5198.82,703,Spiced Pumpkin Soup,Cuba,703,10/16/2020,0.29,Q1 2020,703,378,Pendiente,422.85
+704,2/15/2021,458.79,704,Pineapple Chunks (canned),Russia,704,11/23/2020,69.75,Q1 2020,704,985,Cancelado,369.39
+705,3/15/2021,2831.02,705,Cotton Pajama Set,Indonesia,705,1/13/2021,65.62,Q2 2020,705,390,Cancelado,118.88
+706,7/17/2021,1549.36,706,Personalized Keychain,Indonesia,706,7/1/2021,71.43,Q3 2020,706,43,Pendiente,178.51
+707,6/17/2021,649.03,707,Maple Almond Butter,Brazil,707,5/21/2021,35.52,Q2 2020,707,313,Cancelado,148.7
+708,11/19/2021,3452.45,708,Wild Rice & Quinoa Mix,Iceland,708,8/31/2020,67.37,Q3 2020,708,685,Completado,146.63
+709,4/10/2021,9647.72,709,Kale Salad with Lemon Dressing,Brazil,709,5/26/2021,17.36,Q2 2020,709,765,Completado,435.68
+710,11/2/2021,9558.41,710,Portable Hammock Swing,Indonesia,710,7/4/2020,9.84,Q3 2020,710,489,Cancelado,467.68
+711,3/14/2021,5304.77,711,Tropical Fruit Bowl,Czech Republic,711,11/20/2020,53.5,Q1 2020,711,221,Cancelado,164.84
+712,1/21/2021,4229.4,712,Pesto Pasta Salad,Russia,712,12/22/2020,7.5,Q3 2020,712,57,Pendiente,429.84
+713,10/28/2021,1538.27,713,Pet Tracking Collar,Portugal,713,5/6/2021,72.14,Q2 2020,713,565,Pendiente,399.87
+714,8/20/2021,3038.42,714,Basic V-Neck T-Shirt,Portugal,714,10/21/2020,46.21,Q3 2020,714,634,Completado,311.53
+715,8/27/2021,8117.92,715,Handheld Garment Steamer,China,715,4/18/2020,16.22,Q3 2020,715,831,Cancelado,2.58
+716,11/18/2021,6836.1,716,Stainless Steel Mixing Bowls,Philippines,716,6/28/2021,47.2,Q3 2020,716,136,Pendiente,115.25
+717,10/30/2021,6242.46,717,Brown Rice,China,717,1/18/2020,79.45,Q3 2020,717,178,Completado,423.02
+718,6/28/2021,3567.35,718,Honey Mustard Sauce,China,718,7/18/2020,66.81,Q1 2020,718,378,Completado,235.54
+719,12/21/2021,3677.91,719,Granola Cereal,China,719,2/13/2021,86.38,Q1 2020,719,397,Cancelado,173.14
+720,8/14/2021,5015.01,720,Savory Italian Herbs,Armenia,720,7/6/2020,86.83,Q2 2020,720,458,Completado,230.55
+721,7/17/2021,7818.96,721,Blueberry Oatmeal Cups,Japan,721,5/8/2021,89.39,Q3 2020,721,758,Completado,462.73
+722,3/15/2021,7947.65,722,Electric Meat Grinder,Indonesia,722,4/7/2021,46.64,Q2 2020,722,275,Cancelado,496.93
+723,3/12/2021,2494.44,723,Striped Long Sleeve Shirt,China,723,10/31/2020,10.03,Q3 2020,723,89,Cancelado,98.16
+724,11/23/2021,850.47,724,Eco-Friendly Cleaning Cloths,China,724,9/8/2020,16.32,Q2 2020,724,421,Pendiente,467.87
+725,6/10/2021,5105.79,725,Thai Peanut Noodles,Philippines,725,6/20/2020,59.69,Q3 2020,725,450,Pendiente,15.7
+726,3/27/2021,444.48,726,Garden Vegetable Chips,Russia,726,6/3/2020,93.55,Q2 2020,726,634,Pendiente,308.7
+727,7/6/2021,1470.61,727,Italian Sausage Links,United States,727,6/25/2021,24.11,Q1 2020,727,31,Cancelado,80.26
+728,8/2/2021,2761.96,728,Kale and Quinoa Salad,Brazil,728,5/19/2021,46.22,Q2 2020,728,590,Cancelado,77.55
+729,10/19/2021,9336.13,729,Traditional Hummus,Indonesia,729,4/14/2021,21.98,Q3 2020,729,765,Completado,388.62
+730,5/31/2021,9536.38,730,Canned Black Beans,Indonesia,730,3/21/2021,4.33,Q3 2020,730,104,Completado,161.44
+731,3/12/2021,7678.27,731,Teriyaki Beef Strips,United States,731,8/18/2020,51.02,Q3 2020,731,449,Cancelado,181.8
+732,9/18/2021,5870.87,732,Casual Long Cardigan,China,732,6/4/2021,40.91,Q1 2020,732,847,Cancelado,496.46
+733,1/24/2021,9538.54,733,Apple Cinnamon Instant Oatmeal,Sweden,733,4/24/2020,22.75,Q3 2020,733,869,Cancelado,161.85
+734,11/10/2021,5253.37,734,Outdoor Adventure Backpack,Japan,734,4/7/2020,63.55,Q3 2020,734,373,Completado,461.06
+735,9/21/2021,9140.03,735,Pressure Cooker,Indonesia,735,2/27/2020,8.45,Q2 2020,735,263,Completado,171.04
+736,10/3/2021,9807.11,736,Pepperoni Pizza Roll-Ups,China,736,11/28/2020,39.14,Q1 2020,736,344,Completado,450.53
+737,5/7/2021,8290.3,737,Garlic Herb Cream Cheese,Indonesia,737,4/10/2021,62.76,Q1 2020,737,570,Pendiente,185.84
+738,7/7/2021,2449.86,738,Cinnamon Raisin Bagels,Indonesia,738,9/20/2021,63.21,Q3 2020,738,122,Pendiente,148.74
+739,5/27/2021,9906.5,739,LED Strip Lights Kit,China,739,8/18/2021,98.97,Q1 2020,739,932,Cancelado,160.9
+740,1/29/2021,2256.83,740,Stainless Steel BBQ Grill Set,Ukraine,740,11/19/2021,96.64,Q1 2020,740,767,Completado,353.81
+741,1/21/2021,1416.21,741,Chicken Fajita Kit,Kenya,741,8/31/2021,45.16,Q3 2020,741,543,Pendiente,83.14
+742,3/12/2021,5884.84,742,Compact Electric Kettle,Philippines,742,1/12/2021,96.8,Q2 2020,742,139,Pendiente,474.13
+743,5/17/2021,9049.65,743,Reflective Safety Vest,Nigeria,743,7/13/2020,69.46,Q2 2020,743,680,Cancelado,353.23
+744,7/15/2021,2321.53,744,Greek Yogurt,China,744,11/5/2021,86.2,Q3 2020,744,595,Pendiente,237.6
+745,5/26/2021,6557.43,745,Baked Potato Chips,China,745,4/21/2020,2.41,Q3 2020,745,955,Completado,201.0
+746,5/1/2021,5136.19,746,Tea Infuser,Portugal,746,5/6/2021,93.96,Q3 2020,746,231,Cancelado,59.74
+747,5/14/2021,2886.86,747,Ultra-Thin Laptop Sleeve,Venezuela,747,1/25/2021,45.91,Q2 2020,747,286,Completado,88.26
+748,9/12/2021,2817.88,748,Garden Hose Reel,Colombia,748,3/13/2020,29.4,Q2 2020,748,448,Completado,77.5
+749,6/12/2021,726.52,749,Lemon Basil Pasta Sauce,Thailand,749,9/18/2020,93.51,Q1 2020,749,330,Completado,272.59
+750,6/13/2021,8641.4,750,Oversized Denim Shirt,Indonesia,750,9/30/2021,16.11,Q2 2020,750,929,Completado,189.47
+751,5/24/2021,648.38,751,Chickpea Snack Mix,Iran,751,2/15/2020,64.96,Q3 2020,751,329,Pendiente,195.85
+752,4/28/2021,9494.31,752,Crispy Onion Rings,China,752,4/7/2020,27.75,Q2 2020,752,339,Pendiente,426.23
+753,11/13/2021,2160.98,753,Set of Decorative Storage Bins,China,753,5/16/2020,85.74,Q1 2020,753,117,Cancelado,495.32
+754,6/20/2021,1272.72,754,Fitness Tracker Band,Russia,754,3/29/2021,9.69,Q1 2020,754,952,Pendiente,125.17
+755,9/4/2021,9609.41,755,Savory Quinoa Pudding,Indonesia,755,12/31/2020,47.02,Q2 2020,755,328,Completado,105.73
+756,6/22/2021,9465.39,756,Smart Light Bulbs,Albania,756,10/26/2020,71.39,Q2 2020,756,517,Cancelado,212.89
+757,12/5/2021,5785.96,757,Tofu,Morocco,757,8/9/2021,43.71,Q2 2020,757,490,Completado,438.57
+758,3/31/2021,2714.1,758,Hibiscus Herbal Tea,China,758,8/15/2020,17.18,Q3 2020,758,623,Pendiente,492.64
+759,4/29/2021,1260.62,759,Vintage Graphic Tee,China,759,10/5/2020,29.0,Q1 2020,759,282,Cancelado,411.78
+760,4/21/2021,1237.37,760,Sriracha Honey Glaze,New Caledonia,760,9/8/2020,5.36,Q3 2020,760,472,Cancelado,451.54
+761,8/23/2021,9785.33,761,Sweet Potato Fries,China,761,3/22/2021,93.3,Q2 2020,761,448,Completado,74.42
+762,10/31/2021,4592.89,762,Wireless HDMI Receiver,Philippines,762,12/31/2020,11.17,Q3 2020,762,868,Completado,132.88
+763,7/31/2021,5943.78,763,Ground Turkey,Luxembourg,763,5/24/2021,35.97,Q1 2020,763,694,Pendiente,100.18
+764,3/7/2021,8341.28,764,Overnight Duffle Bag,China,764,2/9/2020,32.52,Q2 2020,764,714,Cancelado,234.07
+765,11/16/2021,2089.82,765,Decorative LED Neon Sign,Vietnam,765,2/9/2021,83.29,Q2 2020,765,953,Completado,473.51
+766,7/12/2021,3069.27,766,Fruit and Nut Bars,Russia,766,5/9/2021,9.83,Q3 2020,766,566,Completado,73.45
+767,6/4/2021,3956.91,767,Chia Seed Pudding,Argentina,767,5/2/2020,91.34,Q1 2020,767,873,Cancelado,183.75
+768,9/28/2021,9213.84,768,Soft Plush Throw Blanket,Indonesia,768,4/19/2021,36.97,Q3 2020,768,62,Completado,490.94
+769,12/6/2021,6183.55,769,Pistachio Ice Cream,Indonesia,769,12/16/2021,72.94,Q2 2020,769,945,Cancelado,475.1
+770,5/1/2021,5044.08,770,Cheesy Broccoli Soup Mix,Brazil,770,9/20/2020,53.28,Q2 2020,770,731,Pendiente,245.49
+771,8/1/2021,5941.64,771,Cookbook,Cuba,771,8/27/2021,24.84,Q1 2020,771,335,Cancelado,494.64
+772,3/2/2021,6651.57,772,LED Desk Lamp with USB Charging,Zimbabwe,772,11/5/2021,32.46,Q3 2020,772,346,Pendiente,321.51
+773,1/4/2021,3828.21,773,V-Neck Sweater,China,773,1/26/2020,37.23,Q3 2020,773,393,Cancelado,81.09
+774,1/28/2021,143.52,774,Compact Umbrella,United States,774,7/11/2021,62.47,Q3 2020,774,628,Completado,350.68
+775,1/6/2021,7939.25,775,Rice Pudding,Sweden,775,4/29/2020,68.99,Q2 2020,775,450,Cancelado,331.71
+776,8/9/2021,1706.55,776,Brazil Nuts,Ireland,776,10/30/2020,79.77,Q1 2020,776,632,Cancelado,265.57
+777,12/15/2021,9080.83,777,Coconut Bowls Set,United States,777,7/1/2021,83.97,Q1 2020,777,827,Completado,168.44
+778,12/7/2021,758.71,778,Elegant Lace Dress,Brazil,778,3/30/2021,36.59,Q2 2020,778,42,Cancelado,224.14
+779,5/8/2021,8645.76,779,Kids' Gardening Tools Set,Portugal,779,4/23/2020,34.64,Q3 2020,779,951,Pendiente,372.41
+780,6/15/2021,1865.43,780,Portable Hammock Swing,China,780,4/27/2020,3.82,Q2 2020,780,141,Cancelado,243.04
+781,9/3/2021,9370.58,781,Herb Garden Planter Box,Chad,781,10/9/2020,10.64,Q1 2020,781,747,Cancelado,108.39
+782,3/16/2021,5828.23,782,Fruit and Nut Medley,Bulgaria,782,5/18/2020,16.9,Q3 2020,782,199,Pendiente,384.18
+783,12/2/2021,720.88,783,Oven Thermometer,China,783,7/26/2021,34.08,Q1 2020,783,34,Cancelado,295.6
+784,9/17/2021,7635.03,784,Coconut Granola,Macedonia,784,12/2/2021,6.24,Q3 2020,784,182,Pendiente,208.06
+785,1/8/2021,2258.62,785,Travel Jewelry Organizer,Malaysia,785,8/28/2020,44.01,Q2 2020,785,10,Completado,171.12
+786,9/24/2021,2880.94,786,Mediterranean Couscous Salad,China,786,12/20/2021,25.91,Q3 2020,786,243,Cancelado,87.35
+787,11/14/2021,9573.84,787,Buffalo Sauce,China,787,9/9/2020,75.88,Q2 2020,787,289,Completado,163.83
+788,6/24/2021,3588.24,788,Silicone Cooking Utensils Set,Russia,788,6/16/2020,1.73,Q1 2020,788,103,Pendiente,473.34
+789,8/30/2021,2845.55,789,Turkey Bacon,Norway,789,11/4/2020,29.88,Q1 2020,789,917,Pendiente,431.29
+790,8/28/2021,3351.48,790,Oven-Baked Chicken Tenders,Brazil,790,9/16/2020,90.71,Q1 2020,790,713,Completado,172.88
+791,2/7/2021,9946.82,791,Sesame Garlic Noodles,Sudan,791,11/25/2020,47.52,Q1 2020,791,795,Cancelado,190.93
+792,8/4/2021,8133.15,792,Biodegradable Phone Case,Samoa,792,5/28/2021,67.16,Q2 2020,792,653,Cancelado,134.17
+793,12/21/2021,454.63,793,Portable Hammock Swing,Russia,793,2/1/2020,19.27,Q3 2020,793,920,Pendiente,321.08
+794,3/13/2021,885.15,794,Pumpkin Spice Muffins,Russia,794,4/29/2021,64.45,Q3 2020,794,670,Completado,223.23
+795,6/30/2021,3275.85,795,Chocolate Chip Energy Balls,China,795,8/14/2020,69.83,Q3 2020,795,481,Cancelado,369.1
+796,1/30/2021,8158.01,796,Bamboo Cutting Board Set,Ghana,796,6/15/2020,29.47,Q2 2020,796,181,Cancelado,429.25
+797,8/26/2021,6784.46,797,Travel Laundry Bag,China,797,12/24/2020,95.96,Q1 2020,797,833,Completado,195.5
+798,4/30/2021,9330.23,798,Lemon Sorbet,Russia,798,10/10/2020,8.39,Q1 2020,798,121,Pendiente,490.03
+799,9/9/2021,5173.02,799,Snack Container Set,Colombia,799,4/13/2020,61.65,Q1 2020,799,995,Cancelado,174.9
+800,12/3/2021,4220.31,800,Dog Waste Bag Dispenser,China,800,2/12/2021,62.18,Q3 2020,800,172,Pendiente,264.04
+801,9/23/2021,1931.93,801,Smoked Gouda Cheese,Nigeria,801,11/17/2021,17.46,Q1 2020,801,316,Completado,270.8
+802,1/23/2021,5898.25,802,Kid's Fruit Snacks,United States,802,10/5/2021,3.6,Q3 2020,802,30,Cancelado,122.08
+803,8/4/2021,916.64,803,Diced Tomatoes (canned),China,803,11/17/2020,83.29,Q1 2020,803,152,Cancelado,191.95
+804,9/23/2021,2032.91,804,Chicken Breasts,Indonesia,804,10/5/2020,42.79,Q3 2020,804,795,Completado,343.07
+805,8/12/2021,9241.99,805,Zucchini Noodles,Tanzania,805,5/4/2020,93.36,Q3 2020,805,721,Completado,475.97
+806,10/20/2021,8829.23,806,Crispy Chickpeas,Indonesia,806,12/7/2020,6.18,Q3 2020,806,758,Cancelado,304.08
+807,6/10/2021,2518.4,807,Coconut Macaroons,Thailand,807,4/15/2021,24.98,Q1 2020,807,658,Completado,149.05
+808,1/10/2021,5254.25,808,Collapsible Colander,China,808,5/21/2020,67.87,Q3 2020,808,330,Cancelado,406.2
+809,4/8/2021,3620.6,809,LED Christmas Lights,Philippines,809,3/8/2021,98.97,Q3 2020,809,356,Pendiente,469.19
+810,12/18/2021,2861.56,810,Bamboo Memory Foam Pillow,Philippines,810,11/8/2021,92.74,Q1 2020,810,996,Completado,355.84
+811,3/5/2021,9110.89,811,Thai Peanut Noodles,Brazil,811,4/22/2020,92.63,Q1 2020,811,808,Completado,308.91
+812,3/6/2021,2216.87,812,Honey Mustard Chicken Breasts,Russia,812,3/19/2021,83.48,Q1 2020,812,639,Pendiente,130.38
+813,5/19/2021,6920.18,813,Adjustable Stand for Tablets and Smartphones,Albania,813,9/18/2020,2.98,Q1 2020,813,932,Cancelado,196.11
+814,6/18/2021,9845.88,814,Eco-Friendly Beeswax Wraps,Pakistan,814,6/19/2021,4.75,Q1 2020,814,822,Completado,321.71
+815,1/9/2021,9887.46,815,Beef Taco Skillet,Nigeria,815,9/27/2021,98.59,Q1 2020,815,277,Cancelado,229.65
+816,5/14/2021,9999.95,816,Herbed Couscous,Russia,816,8/8/2021,17.38,Q2 2020,816,77,Cancelado,430.5
+817,4/19/2021,1615.68,817,Wooden Blocks,Russia,817,12/14/2021,91.11,Q2 2020,817,954,Cancelado,345.19
+818,1/7/2021,1088.74,818,Granola Clusters,Indonesia,818,9/12/2020,38.43,Q2 2020,818,498,Completado,368.21
+819,7/23/2021,1703.98,819,Pocket Blanket,China,819,5/11/2021,58.44,Q2 2020,819,620,Cancelado,328.77
+820,7/10/2021,274.16,820,Stylish Wireless Earbuds,Brazil,820,5/19/2020,89.88,Q2 2020,820,171,Cancelado,243.41
+821,2/3/2021,7857.99,821,Portable Laptop Table,Brazil,821,3/17/2021,93.3,Q1 2020,821,32,Completado,311.62
+822,6/15/2021,4701.3,822,LED Strip Lights,Argentina,822,5/17/2020,62.86,Q3 2020,822,509,Completado,324.5
+823,9/17/2021,3159.42,823,Oven-Baked Chicken Tenders,Iran,823,1/17/2021,91.53,Q1 2020,823,785,Completado,425.22
+824,4/16/2021,9858.49,824,Sesame Seeds,Philippines,824,12/9/2020,72.0,Q1 2020,824,92,Cancelado,168.43
+825,4/3/2021,2431.99,825,Ripped Boyfriend Jeans,China,825,1/22/2021,9.79,Q3 2020,825,646,Completado,421.56
+826,9/24/2021,3074.12,826,Self-Stirring Mug,Belarus,826,4/6/2020,58.77,Q3 2020,826,886,Completado,126.95
+827,1/22/2021,401.88,827,Foldable Yoga Mat,Venezuela,827,10/26/2020,19.69,Q2 2020,827,77,Pendiente,486.46
+828,9/7/2021,8840.83,828,Brazil Nuts,Indonesia,828,5/9/2020,49.59,Q1 2020,828,53,Pendiente,15.73
+829,10/11/2021,593.57,829,Cheddar & Bacon Potato Skins,Mali,829,12/1/2020,41.09,Q3 2020,829,999,Cancelado,364.81
+830,8/6/2021,2508.07,830,Electric Food Steamer,Azerbaijan,830,3/3/2021,13.19,Q3 2020,830,346,Pendiente,45.16
+831,6/12/2021,9413.82,831,Scented Soy Candles,France,831,10/14/2020,48.53,Q1 2020,831,584,Pendiente,24.81
+832,6/13/2021,4022.35,832,Safety First Aid Kit,Japan,832,11/12/2020,28.03,Q2 2020,832,371,Completado,146.32
+833,7/30/2021,1452.82,833,Pumpkin Spice Creamer,Argentina,833,11/28/2020,68.41,Q2 2020,833,858,Completado,8.2
+834,12/21/2021,850.48,834,Gardening Tools Set,Argentina,834,11/12/2021,19.13,Q2 2020,834,867,Cancelado,214.57
+835,7/7/2021,6224.51,835,DIY Organic Gardening Kit,Indonesia,835,4/30/2020,37.38,Q2 2020,835,790,Cancelado,458.66
+836,12/25/2021,3408.78,836,Bamboo Cotton Tank Top,Indonesia,836,11/4/2020,56.29,Q1 2020,836,948,Cancelado,310.02
+837,9/4/2021,1025.5,837,Sweet Potato Chips,Indonesia,837,4/23/2020,90.84,Q3 2020,837,156,Completado,49.18
+838,8/22/2021,7340.13,838,Home Brewing Starter Kit,China,838,5/11/2020,69.71,Q1 2020,838,27,Pendiente,328.49
+839,10/6/2021,5546.82,839,Caramel Apple Taffy,Brazil,839,6/7/2020,54.3,Q3 2020,839,438,Cancelado,360.73
+840,12/28/2021,6081.57,840,Portable Electric Fan,Greece,840,2/23/2021,30.71,Q1 2020,840,976,Completado,202.28
+841,12/15/2021,2515.08,841,Deluxe First Aid Kit,China,841,1/13/2021,16.89,Q3 2020,841,717,Cancelado,331.87
+842,5/25/2021,8410.03,842,Cotton Basic Tank,Brazil,842,1/9/2020,85.23,Q3 2020,842,529,Completado,497.5
+843,12/10/2021,5374.78,843,Kids' Art Supplies Kit,Czech Republic,843,2/22/2021,25.52,Q2 2020,843,256,Cancelado,196.29
+844,8/7/2021,6495.8,844,Fruit and Nut Bars,Bulgaria,844,12/25/2021,36.49,Q2 2020,844,463,Completado,351.34
+845,10/18/2021,8602.61,845,Whole Grain Hamburger Buns,Malaysia,845,10/31/2020,74.08,Q2 2020,845,39,Cancelado,313.38
+846,6/6/2021,6007.94,846,Tomato Sauce,Cyprus,846,4/5/2021,67.76,Q1 2020,846,965,Cancelado,119.29
+847,12/21/2021,6297.31,847,Multi-Functional Rice Cooker,Indonesia,847,2/9/2021,77.97,Q3 2020,847,238,Pendiente,85.74
+848,10/22/2021,2914.86,848,Radish Chips,Peru,848,5/5/2020,84.21,Q1 2020,848,587,Pendiente,129.63
+849,5/29/2021,8497.65,849,Classic Slim Fit Shirt,Argentina,849,9/27/2021,98.58,Q1 2020,849,316,Cancelado,328.8
+850,12/14/2021,6293.08,850,Rustic Italian Breads,Russia,850,9/13/2020,26.66,Q3 2020,850,263,Completado,408.63
+851,2/1/2021,3762.05,851,Hiking Boots,Kazakhstan,851,2/25/2021,5.47,Q2 2020,851,25,Cancelado,71.21
+852,5/16/2021,6158.83,852,Grapes (red),Vietnam,852,5/21/2020,71.54,Q3 2020,852,986,Pendiente,300.76
+853,12/10/2021,2791.82,853,Butternut Squash Ravioli,Brazil,853,12/15/2020,79.02,Q3 2020,853,93,Pendiente,94.0
+854,5/14/2021,8497.47,854,Tea Infuser Bottle,Russia,854,9/25/2021,15.1,Q2 2020,854,852,Pendiente,407.19
+855,2/22/2021,3443.7,855,Kid's Fruit Snacks,Ecuador,855,4/17/2020,95.74,Q2 2020,855,422,Pendiente,300.11
+856,4/30/2021,3120.01,856,Pressure Cooker,Russia,856,8/28/2020,27.44,Q2 2020,856,583,Pendiente,170.76
+857,4/4/2021,7578.85,857,Handheld Garment Steamer,Malaysia,857,8/30/2020,94.35,Q3 2020,857,887,Cancelado,463.51
+858,6/18/2021,8270.77,858,Chocolate Avocado Pudding,China,858,8/20/2021,93.73,Q3 2020,858,601,Cancelado,150.96
+859,3/20/2021,414.91,859,Scent Diffuser Oil,Indonesia,859,9/8/2020,31.13,Q1 2020,859,665,Cancelado,406.13
+860,8/24/2021,4567.79,860,Guitar Tuner,Russia,860,2/4/2020,51.06,Q1 2020,860,976,Cancelado,468.71
+861,6/1/2021,9637.29,861,Travel Jewelry Organizer,Indonesia,861,5/13/2020,68.66,Q3 2020,861,258,Completado,40.45
+862,1/28/2021,3324.49,862,Cranberry Almond Biscotti,Indonesia,862,11/20/2021,48.36,Q3 2020,862,623,Pendiente,31.31
+863,7/7/2021,1935.48,863,Trail Mix (Deluxe),Rwanda,863,12/7/2020,79.92,Q3 2020,863,996,Completado,93.43
+864,8/20/2021,5490.56,864,Mango Chili Salsa,Mexico,864,12/27/2020,64.32,Q2 2020,864,651,Cancelado,124.37
+865,9/11/2021,2412.47,865,Indoor Plants,Japan,865,2/21/2021,87.5,Q2 2020,865,724,Completado,312.69
+866,7/13/2021,6437.9,866,Sour Cream,Philippines,866,9/15/2020,7.67,Q2 2020,866,179,Completado,488.32
+867,10/15/2021,5250.99,867,Multi-Cooker,Sweden,867,1/29/2020,84.52,Q1 2020,867,493,Completado,468.2
+868,7/11/2021,2221.35,868,Essential Oil Diffuser,France,868,8/30/2021,5.49,Q3 2020,868,795,Cancelado,124.78
+869,11/7/2021,4270.57,869,Egg Noodles,China,869,11/1/2020,31.35,Q3 2020,869,671,Completado,96.17
+870,11/7/2021,5804.14,870,Rolling Cooler,Mexico,870,11/1/2020,93.46,Q1 2020,870,694,Pendiente,411.4
+871,1/26/2021,611.77,871,Chocolate Coconut Granola,Poland,871,6/17/2020,91.38,Q2 2020,871,100,Cancelado,482.85
+872,11/24/2021,5684.04,872,Electric Opener for Jars and Bottles,South Africa,872,10/27/2021,19.98,Q2 2020,872,794,Completado,77.77
+873,7/11/2021,5835.04,873,Pesto Genovese,Bangladesh,873,7/12/2020,64.38,Q2 2020,873,477,Cancelado,158.99
+874,10/26/2021,7755.12,874,Portable Solar Camp Shower,Poland,874,12/7/2021,8.77,Q2 2020,874,33,Completado,341.51
+875,9/1/2021,9991.31,875,Bamboo Toothbrush Holder,Bulgaria,875,4/25/2020,47.09,Q1 2020,875,647,Completado,97.39
+876,12/3/2021,6738.43,876,Organic Vanilla Bean Ice Cream,Poland,876,11/9/2020,76.87,Q3 2020,876,354,Cancelado,76.39
+877,10/16/2021,6550.11,877,Kettle BBQ Grill,France,877,7/12/2021,1.46,Q1 2020,877,53,Cancelado,52.53
+878,12/20/2021,349.53,878,LED Under Cabinet Lighting,Russia,878,2/17/2021,17.78,Q1 2020,878,243,Completado,16.28
+879,10/16/2021,2309.71,879,Dark Chocolate Raisins,United States,879,2/7/2020,4.28,Q2 2020,879,898,Pendiente,112.88
+880,1/1/2021,5869.98,880,Cat Tree with Scratching Posts,Portugal,880,11/14/2020,51.8,Q2 2020,880,866,Cancelado,19.5
+881,7/5/2021,9278.47,881,Kettle Chip Variety Pack,China,881,4/6/2020,19.79,Q3 2020,881,449,Cancelado,337.8
+882,1/16/2021,5568.97,882,Brown Rice,United States,882,9/22/2021,33.32,Q3 2020,882,608,Cancelado,90.9
+883,4/6/2021,2988.12,883,Stainless Steel Travel Mug,Finland,883,6/15/2020,54.81,Q3 2020,883,623,Cancelado,171.81
+884,11/24/2021,2841.42,884,Smartphone Photography Tripod,Costa Rica,884,1/28/2020,57.09,Q1 2020,884,233,Completado,165.06
+885,3/24/2021,9851.89,885,Inspirational Wall Art,Philippines,885,6/10/2020,6.01,Q1 2020,885,791,Completado,468.31
+886,7/4/2021,2150.65,886,Beef Jerky,China,886,1/21/2020,66.45,Q2 2020,886,722,Cancelado,157.18
+887,12/10/2021,1197.32,887,Travel Beach Blanket,China,887,3/14/2021,52.03,Q3 2020,887,558,Cancelado,434.9
+888,1/14/2021,7779.76,888,Stainless Steel Cutlery Set,China,888,10/8/2021,97.11,Q2 2020,888,826,Pendiente,173.38
+889,1/19/2021,9483.67,889,Tofu,Poland,889,7/31/2021,98.15,Q1 2020,889,804,Pendiente,194.71
+890,1/10/2021,653.4,890,Zucchini Noodle Pasta,Sweden,890,7/18/2020,2.72,Q1 2020,890,523,Cancelado,171.06
+891,5/20/2021,7577.36,891,Gingerbread House Kit,Indonesia,891,11/30/2021,28.54,Q3 2020,891,368,Pendiente,10.65
+892,5/9/2021,6373.6,892,Pet Water Fountain,China,892,3/8/2020,6.79,Q1 2020,892,632,Completado,394.55
+893,4/14/2021,6998.61,893,Cheesy Broccoli Soup Mix,China,893,11/25/2020,90.6,Q1 2020,893,229,Cancelado,484.08
+894,3/30/2021,6125.1,894,Pet Safety Belt for Car,Morocco,894,1/3/2020,54.14,Q2 2020,894,748,Cancelado,81.37
+895,2/11/2021,2722.12,895,Honey Wheat Pretzels,Russia,895,5/17/2020,85.62,Q2 2020,895,579,Completado,150.3
+896,6/14/2021,64.67,896,Chili Lime Shrimp,Nepal,896,7/12/2021,59.49,Q1 2020,896,991,Pendiente,428.4
+897,9/9/2021,7298.43,897,Pet Activity Tracker,Brazil,897,5/28/2020,54.73,Q3 2020,897,969,Completado,152.59
+898,12/26/2021,7864.28,898,LED Christmas Lights,Indonesia,898,1/21/2020,34.54,Q2 2020,898,267,Pendiente,432.3
+899,1/13/2021,7887.7,899,Chocolate Fudge Brownie Mix,France,899,9/6/2021,99.35,Q2 2020,899,149,Cancelado,236.49
+900,8/3/2021,2517.45,900,Instant Mashed Potatoes,Brazil,900,7/20/2020,65.82,Q1 2020,900,449,Cancelado,141.3
+901,7/1/2021,958.09,901,Smart Home Security Camera,China,901,5/3/2020,90.53,Q3 2020,901,666,Cancelado,444.08
+902,4/1/2021,5892.99,902,Nut Butter Cups,Indonesia,902,7/2/2021,40.44,Q3 2020,902,853,Completado,93.14
+903,3/20/2021,8355.65,903,Interactive Plush Toy,Russia,903,10/5/2021,94.43,Q1 2020,903,873,Cancelado,128.5
+904,12/10/2021,4341.87,904,Art Supplies Organizer,Peru,904,10/5/2020,83.7,Q1 2020,904,495,Pendiente,130.92
+905,7/19/2021,5432.65,905,Customizable Name Plate,Kenya,905,9/29/2021,43.34,Q3 2020,905,489,Completado,336.89
+906,4/24/2021,645.66,906,Hot Dog Buns,El Salvador,906,4/23/2020,87.43,Q2 2020,906,40,Cancelado,104.49
+907,8/26/2021,196.48,907,Dried Apricots,Portugal,907,10/15/2020,11.9,Q3 2020,907,765,Pendiente,63.26
+908,7/30/2021,1096.45,908,Classic Pesto Sauce,Malawi,908,8/6/2021,36.91,Q3 2020,908,677,Cancelado,71.08
+909,6/30/2021,9474.1,909,Outdoor Picnic Blanket,Greece,909,8/10/2021,88.23,Q2 2020,909,413,Completado,119.63
+910,11/29/2021,1585.29,910,Zesty Cilantro Lime Dressing,China,910,8/21/2020,17.33,Q3 2020,910,20,Cancelado,6.46
+911,9/18/2021,6757.31,911,Honey Garlic Sauce,China,911,8/15/2021,74.86,Q3 2020,911,293,Pendiente,15.23
+912,11/1/2021,1270.48,912,Cookbook,Indonesia,912,11/12/2021,81.63,Q1 2020,912,437,Pendiente,122.53
+913,12/4/2021,3285.23,913,Magnetic Spice Jars,Indonesia,913,9/7/2021,68.2,Q2 2020,913,139,Cancelado,98.22
+914,9/20/2021,4915.31,914,Vintage Graphic Tee,Croatia,914,1/9/2020,64.85,Q2 2020,914,640,Completado,284.11
+915,11/25/2021,9633.02,915,Avocado Oil Mayo,United States,915,3/8/2020,59.32,Q1 2020,915,680,Cancelado,395.3
+916,1/13/2021,9248.69,916,Kettle Chip Variety Pack,Greece,916,12/15/2021,72.77,Q2 2020,916,164,Completado,224.98
+917,9/3/2021,5902.08,917,Water Bottle with Built-in Fruit Infuser,China,917,10/21/2020,65.57,Q2 2020,917,555,Pendiente,273.43
+918,7/4/2021,7506.41,918,Baking Soda,Indonesia,918,3/23/2021,0.25,Q2 2020,918,390,Cancelado,20.05
+919,10/3/2021,4262.73,919,Ramen Noodle Soup Cups,Czech Republic,919,5/19/2020,63.75,Q2 2020,919,798,Cancelado,225.32
+920,11/30/2021,5765.99,920,Self-Adhesive Wallpaper,Brazil,920,10/3/2021,56.02,Q3 2020,920,310,Cancelado,443.58
+921,5/9/2021,5316.87,921,Organic Granola,France,921,2/2/2021,59.92,Q1 2020,921,682,Completado,470.89
+922,1/16/2021,1002.3,922,Set of Silicone Cooking Utensils,Ecuador,922,6/9/2020,64.57,Q2 2020,922,270,Cancelado,130.58
+923,6/19/2021,5885.36,923,Luxury Memory Foam Mattress Topper,China,923,12/18/2021,14.97,Q2 2020,923,546,Pendiente,410.85
+924,1/25/2021,4298.44,924,Jalapeño Cornbread,China,924,8/10/2020,17.06,Q1 2020,924,593,Completado,450.51
+925,1/7/2021,572.99,925,Essential Oil Roller Bottles,Indonesia,925,5/1/2021,1.44,Q1 2020,925,283,Completado,395.93
+926,6/20/2021,4493.4,926,Nutritional Yeast,United States,926,8/3/2021,87.87,Q2 2020,926,336,Cancelado,461.51
+927,12/5/2021,2081.13,927,Adjustable Skipping Rope,Moldova,927,8/1/2020,37.68,Q2 2020,927,157,Pendiente,19.83
+928,11/21/2021,7920.95,928,Halloween Decoration Set,Portugal,928,2/23/2020,73.18,Q1 2020,928,513,Cancelado,111.6
+929,11/22/2021,6017.29,929,Sliced Avocado,Serbia,929,7/18/2020,23.34,Q1 2020,929,473,Completado,294.55
+930,7/28/2021,1357.97,930,Vegetable Stock,Czech Republic,930,12/1/2020,70.93,Q1 2020,930,843,Cancelado,367.82
+931,3/18/2021,7945.94,931,Frozen Mixed Vegetables,Ukraine,931,2/14/2020,87.62,Q3 2020,931,466,Cancelado,22.95
+932,5/24/2021,9464.46,932,Smoked Salmon,Portugal,932,5/19/2021,75.26,Q2 2020,932,922,Pendiente,182.73
+933,1/1/2021,1392.33,933,Savory Oatmeal,Bangladesh,933,9/29/2020,3.94,Q1 2020,933,541,Pendiente,352.76
+934,7/23/2021,8131.85,934,Sweet Potatoes (organic),Poland,934,4/15/2020,97.64,Q1 2020,934,994,Cancelado,43.85
+935,12/15/2021,6986.07,935,Portable Solar Phone Charger,Indonesia,935,6/5/2020,0.52,Q1 2020,935,586,Cancelado,378.12
+936,2/9/2021,1474.27,936,Coconut Water,Kyrgyzstan,936,1/7/2021,24.04,Q2 2020,936,954,Completado,169.02
+937,7/12/2021,6943.19,937,DIY Lip Balm Making Kit,China,937,10/24/2020,59.12,Q1 2020,937,397,Completado,156.98
+938,11/28/2021,7062.93,938,Kids' Gardening Kit,Russia,938,8/23/2021,54.65,Q2 2020,938,100,Completado,231.75
+939,10/2/2021,1789.79,939,Chocolate Covered Pretzels,Poland,939,12/10/2021,23.52,Q1 2020,939,266,Pendiente,461.74
+940,10/9/2021,5165.33,940,Electric Razor,Brazil,940,10/27/2021,29.05,Q3 2020,940,46,Cancelado,90.73
+941,11/1/2021,7383.71,941,Kale and Quinoa Salad,Indonesia,941,5/31/2020,16.74,Q3 2020,941,619,Cancelado,153.7
+942,8/20/2021,1820.45,942,Gardening Gloves,Madagascar,942,12/20/2020,83.44,Q2 2020,942,818,Cancelado,459.82
+943,4/14/2021,8173.79,943,Garden Tool Belt,Argentina,943,11/27/2021,57.75,Q1 2020,943,285,Completado,166.52
+944,10/1/2021,9068.21,944,Cacao Nibs,China,944,8/18/2020,92.37,Q3 2020,944,807,Cancelado,438.66
+945,12/2/2021,4477.02,945,Pet Grooming Gloves,Libya,945,10/4/2021,16.28,Q1 2020,945,436,Pendiente,449.28
+946,4/13/2021,5253.45,946,Almond Quinoa Salad,Philippines,946,1/20/2021,78.91,Q1 2020,946,882,Completado,412.29
+947,10/19/2021,8332.85,947,Emergency Preparedness Kit,Ukraine,947,5/20/2021,10.35,Q3 2020,947,893,Completado,351.03
+948,4/18/2021,7605.19,948,Essential Oil Diffuser,Tanzania,948,8/26/2020,47.51,Q1 2020,948,798,Cancelado,207.79
+949,6/10/2021,7061.16,949,Bluetooth Car Adapter,Philippines,949,3/15/2021,88.67,Q1 2020,949,56,Cancelado,292.65
+950,12/20/2021,686.77,950,Classic Pumps,China,950,7/7/2021,32.4,Q2 2020,950,369,Cancelado,67.91
+951,9/24/2021,1652.6,951,Suede Ankle Booties,China,951,2/17/2021,56.58,Q2 2020,951,572,Cancelado,170.41
+952,7/31/2021,8375.6,952,Lemon Herb Quinoa,Sweden,952,11/28/2020,17.18,Q2 2020,952,978,Completado,216.51
+953,11/21/2021,1274.93,953,Bird Feeder,Myanmar,953,1/9/2020,55.74,Q1 2020,953,224,Cancelado,82.86
+954,1/14/2021,9361.0,954,Brown Rice,China,954,9/17/2021,63.66,Q3 2020,954,669,Cancelado,331.28
+955,2/14/2021,9444.66,955,Electric Hot Pot,Thailand,955,4/1/2021,14.12,Q3 2020,955,418,Pendiente,328.77
+956,12/2/2021,4152.37,956,Vegetable Pizza Rolls,Russia,956,12/3/2021,63.86,Q3 2020,956,302,Completado,262.33
+957,7/3/2021,5658.26,957,Instant Pot,Taiwan,957,6/4/2020,18.27,Q1 2020,957,441,Pendiente,83.12
+958,11/25/2021,9257.8,958,Vegetable Korma,Sweden,958,9/8/2020,60.55,Q3 2020,958,495,Pendiente,440.46
+959,8/15/2021,4577.45,959,Chili Beans (canned),Kosovo,959,12/14/2021,71.13,Q3 2020,959,379,Completado,161.99
+960,8/4/2021,1140.72,960,Portable UV Sterilizer,Indonesia,960,8/29/2021,43.7,Q2 2020,960,92,Completado,153.33
+961,6/9/2021,4563.6,961,Lemon Herb Chicken,France,961,11/4/2021,80.74,Q2 2020,961,375,Pendiente,79.23
+962,2/10/2021,7280.48,962,Ground Turkey,United States,962,10/3/2020,64.89,Q3 2020,962,85,Pendiente,372.26
+963,12/10/2021,3697.19,963,Cocktail Shaker and Mixing Glass Set,Pakistan,963,9/15/2021,76.86,Q2 2020,963,253,Cancelado,37.22
+964,3/12/2021,1728.49,964,Samoas Cookie Mix,Finland,964,10/29/2020,85.36,Q3 2020,964,379,Cancelado,280.42
+965,4/4/2021,3329.66,965,Electric Air Pump,Argentina,965,4/15/2021,87.79,Q3 2020,965,501,Pendiente,446.42
+966,3/14/2021,1469.5,966,Artisan Pickles,Honduras,966,9/18/2021,47.58,Q1 2020,966,829,Pendiente,429.1
+967,11/4/2021,6312.5,967,Portable Solar Camp Shower,Poland,967,10/3/2020,19.1,Q3 2020,967,151,Completado,309.39
+968,4/8/2021,6260.51,968,Pasta (Linguine),Russia,968,7/20/2020,77.02,Q1 2020,968,772,Completado,402.9
+969,1/19/2021,1651.52,969,Ripped Boyfriend Jeans,Vietnam,969,12/9/2020,16.63,Q3 2020,969,414,Completado,372.95
+970,6/16/2021,5826.79,970,Lightweight Workout Tank,Macedonia,970,11/6/2020,58.32,Q3 2020,970,839,Pendiente,211.41
+971,9/12/2021,7085.35,971,Electric Heat Press Machine,Philippines,971,10/16/2021,69.63,Q3 2020,971,109,Cancelado,444.95
+972,4/23/2021,2153.43,972,Chocolate Avocado Pudding,Egypt,972,5/29/2021,65.48,Q2 2020,972,777,Pendiente,163.16
+973,11/4/2021,8425.48,973,Sriracha Honey Glaze,Albania,973,5/11/2020,77.87,Q2 2020,973,488,Pendiente,415.55
+974,7/17/2021,1621.85,974,Honey Sriracha Chicken Bites,Canada,974,1/10/2021,16.57,Q2 2020,974,162,Cancelado,62.58
+975,4/23/2021,5678.21,975,Digital Kitchen Timer,Poland,975,5/24/2020,96.22,Q3 2020,975,926,Completado,39.06
+976,5/31/2021,8139.96,976,Air Fryer,Mongolia,976,10/18/2021,45.88,Q3 2020,976,347,Pendiente,408.0
+977,11/4/2021,4080.96,977,Weighted Blanket for Adults,Czech Republic,977,9/30/2020,14.57,Q3 2020,977,900,Cancelado,54.76
+978,4/3/2021,1897.02,978,Adjustable Pedicure Footrest,China,978,8/13/2020,89.66,Q1 2020,978,738,Completado,340.5
+979,12/16/2021,1844.52,979,Quality Chef Apron,Japan,979,7/20/2021,19.0,Q3 2020,979,183,Cancelado,168.61
+980,6/26/2021,7701.44,980,Classic Cheeseburger Mix,Russia,980,9/9/2020,19.13,Q3 2020,980,775,Pendiente,491.25
+981,2/9/2021,9119.95,981,Lemon Sorbet,China,981,3/20/2021,94.52,Q2 2020,981,472,Pendiente,113.21
+982,10/18/2021,3554.34,982,Pet Leash,Venezuela,982,7/24/2021,24.6,Q2 2020,982,272,Cancelado,118.69
+983,12/14/2021,4443.25,983,Cereal Dispenser with Portion Control,Argentina,983,12/24/2021,92.11,Q2 2020,983,731,Cancelado,10.46
+984,10/5/2021,8705.2,984,Artisan Flatbreads,Ukraine,984,7/20/2020,65.11,Q2 2020,984,42,Cancelado,84.51
+985,2/7/2021,1830.28,985,Honey Roasted Chickpeas,Philippines,985,10/18/2021,14.0,Q2 2020,985,735,Cancelado,464.83
+986,3/27/2021,349.59,986,Garlic Parmesan Roasted Nuts,Poland,986,11/1/2020,75.4,Q1 2020,986,250,Pendiente,379.43
+987,4/16/2021,5595.32,987,Frozen Cauliflower Rice,Vietnam,987,2/13/2021,43.2,Q2 2020,987,233,Cancelado,437.18
+988,11/17/2021,5752.57,988,Electric Wax Warmer,Japan,988,9/8/2020,87.11,Q1 2020,988,95,Pendiente,0.44
+989,1/23/2021,3168.91,989,Caraway Rye Bread,Armenia,989,6/25/2021,37.39,Q3 2020,989,163,Pendiente,462.6
+990,12/12/2021,3655.38,990,Cranberry Almond Cookies,Poland,990,1/27/2021,37.07,Q1 2020,990,362,Pendiente,127.26
+991,2/24/2021,1661.25,991,Travel Beach Blanket,Russia,991,4/28/2021,45.6,Q3 2020,991,767,Completado,136.91
+992,1/6/2021,9833.06,992,Buffalo Wing Sauce,Sweden,992,11/23/2020,37.05,Q1 2020,992,965,Completado,330.97
+993,12/7/2021,4326.13,993,Cushion Covers,Philippines,993,7/9/2020,48.42,Q2 2020,993,743,Cancelado,450.92
+994,5/12/2021,7782.27,994,Spinach and Feta Stuffed Chicken Breast,China,994,7/20/2021,47.12,Q2 2020,994,479,Cancelado,240.45
+995,6/23/2021,9486.68,995,Pineapple Teriyaki Chicken Mix,Gabon,995,12/26/2020,91.03,Q2 2020,995,111,Completado,291.23
+996,1/16/2021,613.44,996,LED Desk Lamp with USB Charging Port,France,996,9/27/2020,47.41,Q2 2020,996,728,Cancelado,279.52
+997,2/1/2021,4218.04,997,Classic Caesar Dressing,Malaysia,997,6/15/2020,42.24,Q1 2020,997,580,Cancelado,496.28
+998,6/8/2021,4721.18,998,Multi-Functional Rice Cooker,Japan,998,7/28/2020,96.37,Q1 2020,998,152,Completado,213.91
+999,2/18/2021,2789.11,999,Professional Chef Knife,China,999,6/19/2021,22.64,Q3 2020,999,736,Cancelado,404.69
+1000,12/26/2021,2687.1,1000,Cookbook,Netherlands,1000,4/2/2021,86.8,Q2 2020,1000,279,Completado,456.24

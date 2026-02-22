@@ -6,10 +6,10 @@ from dotenv import load_dotenv
 load_dotenv()
 cliente = MongoClient(os.getenv('MONGO_URI'))
 db = cliente["lab4_analytics"]
-collection = db["dinero"]
+collection = db["sales"]
 
 # Leer CSV
-df = pd.read_csv("money.csv")
+df = pd.read_csv("money2.csv")
 
 # Limpiar nombres
 df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
@@ -18,5 +18,6 @@ df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
 df = df.where(pd.notnull(df), None)
 
 # Insertar
+collection.delete_many({})  # Limpiar coleccion antes de insertar
 collection.insert_many(df.to_dict("records"))
 print(f"✅ {len(df)} documentos insertados")
